@@ -1,91 +1,94 @@
 @font-face {
-    font-family: "kaisoutai";
-    src: url("./fonts/Kaisotai-Next-UP-B.otf");
+  font-family: "kaisoutai";
+  src: url("./fonts/Kaisotai-Next-UP-B.otf");
 }
-body{
-    margin: 0;
-    background-color: black;
+body {
+  margin: 0;
+  background-color: black;
 }
-div.poster{
-    background-image: url("./images/poster_background.png");
-    background-size: 100% auto;
-    background-repeat: no-repeat;
-    height: 70%;
+div.poster {
+  background-image: url("./images/poster_background.png");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  height: 70%;
 }
-div.houousai{
-    margin-top: 0;
-    padding: 20px 0 0 20px;
-    font-family: kaisoutai;
-    font-size: 4vw;
+div.houousai {
+  margin-top: 0;
+  padding: 20px 0 0 20px;
+  font-family: kaisoutai;
+  font-size: 4vw;
 }
-div.reimei{
-    font-size: 15vw;
-    font-family: kaisoutai;
-    padding: 0 40px;
-    padding-right: 40px;
+div.reimei {
+  font-size: 15vw;
+  font-family: kaisoutai;
+  padding: 0 40px;
+  padding-right: 40px;
 }
-div.date{
-    padding-top: 35px;
-    font-family: kaisoutai;
-    font-size: 5vw;
+div.date {
+  padding-top: 35px;
+  font-family: kaisoutai;
+  font-size: 5vw;
 }
-div.concept{
-    transition: all .5s ease;
-}
-
-section.concept:hover div.concept{
-    color: #772E7F;
+div.concept {
+  transition: all 0.5s ease;
 }
 
-div.concept-contents{
-    font-family: kaisoutai;
-    padding: 0 15%;
-    font-size: 4vw;
-    margin-top: 10px;
-}
-div.insta_link{
-    position: fixed;
-    bottom: 60px;
-    right: 15px;
-    
-}
-img.insta_logo{
-    height: auto;
-    width: 60px;
-}
-footer{
-    color: white;
-    text-align: center;
-}
-img.access_map_img{
-    width: 100%;
-    max-width: 700px;
-    height: auto;
+section.concept:hover div.concept {
+  color: #772e7f;
 }
 
-div.access_map{
-    text-align: center;
-
+div.concept-contents {
+  font-family: kaisoutai;
+  padding: 0 15%;
+  font-size: 4vw;
+  margin-top: 10px;
 }
-div.access{
-    transition: all .5s ease;
+div.insta_link {
+  position: fixed;
+  bottom: 60px;
+  right: 15px;
 }
-
-div.floor_map{
-    transition: all .5s ease;
-
-}
-section.access:hover div.access{
-    color: #E22C65;
-}
-
-section.floor_map:hover div.floor_map{
-    color: #FEE980;
+img.insta_logo {
+  height: auto;
+  width: 60px;
+  transition: 0.3s;
 }
 
-.headline{
-    font-family: kaisoutai;
-    font-size: 8vw;
-    padding-left: 10%;
-    padding-top: 50px;
+img.insta_logo:hover {
+  transform: scale(1.2);
+}
+
+footer {
+  color: white;
+  text-align: center;
+}
+img.access_map_img {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+}
+
+div.access_map {
+  text-align: center;
+}
+div.access {
+  transition: all 0.5s ease;
+}
+
+div.floor_map {
+  transition: all 0.5s ease;
+}
+section.access:hover div.access {
+  color: #e22c65;
+}
+
+section.floor_map:hover div.floor_map {
+  color: #fee980;
+}
+
+.headline {
+  font-family: kaisoutai;
+  font-size: 8vw;
+  padding-left: 10%;
+  padding-top: 50px;
 }
