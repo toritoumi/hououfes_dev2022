@@ -1,0 +1,606 @@
+<svg id="レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1025.95979mm" height="699.40933mm" viewBox="0 0 2908.23249 1982.57764">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-2, .cls-23, .cls-9 {
+        fill: none;
+      }
+
+      .cls-2, .cls-29 {
+        stroke: #231815;
+      }
+
+      .cls-2 {
+        stroke-linejoin: round;
+        stroke-width: 0.3px;
+      }
+
+      .cls-3 {
+        fill: #efefef;
+      }
+
+      .cls-4 {
+        fill: #231815;
+      }
+
+      .cls-14, .cls-15, .cls-18, .cls-21, .cls-22, .cls-24, .cls-25, .cls-26, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: #3e3a39;
+      }
+
+      .cls-7 {
+        fill: url(#斜線);
+      }
+
+      .cls-8 {
+        fill: #e8d353;
+      }
+
+      .cls-9 {
+        stroke: #00a0e9;
+      }
+
+      .cls-10, .cls-14, .cls-15, .cls-21, .cls-25, .cls-26, .cls-27, .cls-29, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-14, .cls-15, .cls-25, .cls-26, .cls-9 {
+        stroke-width: 3px;
+      }
+
+      .cls-10, .cls-15, .cls-27 {
+        stroke: #3e3a39;
+      }
+
+      .cls-10, .cls-21, .cls-22 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-11 {
+        fill: #ea5514;
+      }
+
+      .cls-12 {
+        fill: #601986;
+      }
+
+      .cls-13 {
+        fill: #ee7b3f;
+      }
+
+      .cls-14 {
+        stroke: #898989;
+      }
+
+      .cls-16 {
+        fill: #c30d23;
+      }
+
+      .cls-17 {
+        fill: #e94c55;
+      }
+
+      .cls-18, .cls-21, .cls-22, .cls-23, .cls-24 {
+        stroke: #fff;
+      }
+
+      .cls-18, .cls-22, .cls-23, .cls-24 {
+        stroke-linejoin: bevel;
+      }
+
+      .cls-18 {
+        stroke-width: 1.00518px;
+      }
+
+      .cls-19 {
+        fill: #008cc9;
+      }
+
+      .cls-20, .cls-27, .cls-28, .cls-29, .cls-30, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39 {
+        fill: #6b6b6b;
+      }
+
+      .cls-23 {
+        stroke-width: 0.75px;
+      }
+
+      .cls-24 {
+        stroke-width: 0.258px;
+      }
+
+      .cls-25 {
+        stroke: #601986;
+      }
+
+      .cls-25, .cls-26 {
+        stroke-dasharray: 3;
+      }
+
+      .cls-26 {
+        stroke: #ea5514;
+      }
+
+      .cls-28 {
+        font-size: 150px;
+      }
+
+      .cls-28, .cls-35 {
+        font-family: HPSimplifiedHans-Regular, HPSimplifiedHans Regular;
+      }
+
+      .cls-29 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-30 {
+        font-size: 35px;
+      }
+
+      .cls-30, .cls-33, .cls-34, .cls-36, .cls-37, .cls-38, .cls-39 {
+        font-family: HPSimplifiedJpan-Regular, HPSimplifiedJpan Regular;
+      }
+
+      .cls-31 {
+        letter-spacing: -0.5em;
+      }
+
+      .cls-32 {
+        letter-spacing: 0.25em;
+      }
+
+      .cls-33 {
+        font-size: 60px;
+      }
+
+      .cls-34, .cls-35, .cls-39 {
+        font-size: 40px;
+      }
+
+      .cls-36 {
+        font-size: 49.99979px;
+      }
+
+      .cls-37 {
+        font-size: 50.00019px;
+      }
+
+      .cls-38 {
+        font-size: 50px;
+      }
+
+      .cls-39 {
+        letter-spacing: 0.15em;
+      }
+
+      .cls-40 {
+        letter-spacing: -0.1em;
+      }
+    </style>
+    <pattern id="斜線" data-name="斜線" width="72" height="72" patternTransform="translate(-242.08978 -659.54736)" patternUnits="userSpaceOnUse" viewBox="0 0 72 72">
+      <rect class="cls-1" width="72" height="72"/>
+      <g>
+        <line class="cls-2" x1="66" y1="84.00045" x2="84" y2="66.00045"/>
+        <line class="cls-2" x1="66" y1="90.00045" x2="90" y2="66.00045"/>
+        <line class="cls-2" x1="66" y1="96.00045" x2="96" y2="66.00045"/>
+        <line class="cls-2" x1="66" y1="102.00045" x2="102" y2="66.00045"/>
+        <line class="cls-2" x1="66" y1="108.00045" x2="108" y2="66.00045"/>
+        <line class="cls-2" x1="66" y1="114.00045" x2="114" y2="66.00045"/>
+        <line class="cls-2" x1="66" y1="120.00045" x2="120" y2="66.00045"/>
+        <line class="cls-2" x1="66" y1="126.00045" x2="126" y2="66.00045"/>
+        <line class="cls-2" x1="66" y1="132.00045" x2="132" y2="66.00045"/>
+        <line class="cls-2" x1="66" y1="138.00045" x2="138" y2="66.00045"/>
+        <line class="cls-2" x1="66" y1="144.00045" x2="144" y2="66.00045"/>
+        <line class="cls-2" x1="66" y1="149.99955" x2="150" y2="66.00045"/>
+        <line class="cls-2" x1="72" y1="149.99955" x2="150" y2="72.00045"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="-6" y1="84.00045" x2="12" y2="66.00045"/>
+        <line class="cls-2" x1="-6" y1="90.00045" x2="18" y2="66.00045"/>
+        <line class="cls-2" x1="-6" y1="96.00045" x2="24" y2="66.00045"/>
+        <line class="cls-2" x1="-6" y1="102.00045" x2="30" y2="66.00045"/>
+        <line class="cls-2" x1="-6" y1="108.00045" x2="36" y2="66.00045"/>
+        <line class="cls-2" x1="-6" y1="114.00045" x2="42" y2="66.00045"/>
+        <line class="cls-2" x1="-6" y1="120.00045" x2="48" y2="66.00045"/>
+        <line class="cls-2" x1="-6" y1="126.00045" x2="54" y2="66.00045"/>
+        <line class="cls-2" x1="-6" y1="132.00045" x2="60" y2="66.00045"/>
+        <line class="cls-2" x1="-6" y1="138.00045" x2="66" y2="66.00045"/>
+        <line class="cls-2" x1="-6" y1="144.00045" x2="72" y2="66.00045"/>
+        <line class="cls-2" x1="-6" y1="149.99955" x2="78" y2="66.00045"/>
+        <line class="cls-2" y1="149.99955" x2="78" y2="72.00045"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="-78" y1="144.00045" y2="66.00045"/>
+        <line class="cls-2" x1="-78" y1="149.99955" x2="6" y2="66.00045"/>
+        <line class="cls-2" x1="-72" y1="149.99955" x2="6" y2="72.00045"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="66" y1="12.00045" x2="84" y2="-5.99955"/>
+        <line class="cls-2" x1="66" y1="18.00045" x2="90" y2="-5.99955"/>
+        <line class="cls-2" x1="66" y1="24.00045" x2="96" y2="-5.99955"/>
+        <line class="cls-2" x1="66" y1="30.00045" x2="102" y2="-5.99955"/>
+        <line class="cls-2" x1="66" y1="36.00045" x2="108" y2="-5.99955"/>
+        <line class="cls-2" x1="66" y1="42.00045" x2="114" y2="-5.99955"/>
+        <line class="cls-2" x1="66" y1="48.00045" x2="120" y2="-5.99955"/>
+        <line class="cls-2" x1="66" y1="54.00045" x2="126" y2="-5.99955"/>
+        <line class="cls-2" x1="66" y1="60.00045" x2="132" y2="-5.99955"/>
+        <line class="cls-2" x1="66" y1="66.00045" x2="138" y2="-5.99955"/>
+        <line class="cls-2" x1="66" y1="72.00045" x2="144" y2="-5.99955"/>
+        <line class="cls-2" x1="66" y1="77.99955" x2="150" y2="-5.99955"/>
+        <line class="cls-2" x1="72" y1="77.99955" x2="150" y2="0.00045"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="-6" y1="12.00045" x2="12" y2="-5.99955"/>
+        <line class="cls-2" x1="-6" y1="18.00045" x2="18" y2="-5.99955"/>
+        <line class="cls-2" x1="-6" y1="24.00045" x2="24" y2="-5.99955"/>
+        <line class="cls-2" x1="-6" y1="30.00045" x2="30" y2="-5.99955"/>
+        <line class="cls-2" x1="-6" y1="36.00045" x2="36" y2="-5.99955"/>
+        <line class="cls-2" x1="-6" y1="42.00045" x2="42" y2="-5.99955"/>
+        <line class="cls-2" x1="-6" y1="48.00045" x2="48" y2="-5.99955"/>
+        <line class="cls-2" x1="-6" y1="54.00045" x2="54" y2="-5.99955"/>
+        <line class="cls-2" x1="-6" y1="60.00045" x2="60" y2="-5.99955"/>
+        <line class="cls-2" x1="-6" y1="66.00045" x2="66" y2="-5.99955"/>
+        <line class="cls-2" x1="-6" y1="72.00045" x2="72" y2="-5.99955"/>
+        <line class="cls-2" x1="-6" y1="77.99955" x2="78" y2="-5.99955"/>
+        <line class="cls-2" y1="77.99955" x2="78" y2="0.00045"/>
+        <line class="cls-2" x1="6" y1="77.99955" x2="78" y2="6.00045"/>
+        <line class="cls-2" x1="12" y1="77.99955" x2="78" y2="12.00045"/>
+        <line class="cls-2" x1="18" y1="77.99955" x2="78" y2="18.00045"/>
+        <line class="cls-2" x1="24" y1="77.99955" x2="78" y2="24.00045"/>
+        <line class="cls-2" x1="30" y1="77.99955" x2="78" y2="30.00045"/>
+        <line class="cls-2" x1="36" y1="77.99955" x2="78" y2="36.00045"/>
+        <line class="cls-2" x1="42" y1="77.99955" x2="78" y2="42.00045"/>
+        <line class="cls-2" x1="48" y1="77.99955" x2="78" y2="48.00045"/>
+        <line class="cls-2" x1="54" y1="77.99955" x2="78" y2="54.00045"/>
+        <line class="cls-2" x1="60" y1="77.99955" x2="78" y2="60.00045"/>
+        <line class="cls-2" x1="66" y1="77.99955" x2="78" y2="66.00045"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="-78" y1="72.00045" y2="-5.99955"/>
+        <line class="cls-2" x1="-78" y1="77.99955" x2="6" y2="-5.99955"/>
+        <line class="cls-2" x1="-72" y1="77.99955" x2="6" y2="0.00045"/>
+        <line class="cls-2" x1="-66" y1="77.99955" x2="6" y2="6.00045"/>
+        <line class="cls-2" x1="-60" y1="77.99955" x2="6" y2="12.00045"/>
+        <line class="cls-2" x1="-54" y1="77.99955" x2="6" y2="18.00045"/>
+        <line class="cls-2" x1="-48" y1="77.99955" x2="6" y2="24.00045"/>
+        <line class="cls-2" x1="-42" y1="77.99955" x2="6" y2="30.00045"/>
+        <line class="cls-2" x1="-36" y1="77.99955" x2="6" y2="36.00045"/>
+        <line class="cls-2" x1="-30" y1="77.99955" x2="6" y2="42.00045"/>
+        <line class="cls-2" x1="-24" y1="77.99955" x2="6" y2="48.00045"/>
+        <line class="cls-2" x1="-18" y1="77.99955" x2="6" y2="54.00045"/>
+        <line class="cls-2" x1="-12" y1="77.99955" x2="6" y2="60.00045"/>
+        <line class="cls-2" x1="-6" y1="77.99955" x2="6" y2="66.00045"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="66" y1="0.00045" x2="144" y2="-77.99955"/>
+        <line class="cls-2" x1="66" y1="5.99955" x2="150" y2="-77.99955"/>
+        <line class="cls-2" x1="72" y1="5.99955" x2="150" y2="-71.99955"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="-6" y1="0.00045" x2="72" y2="-77.99955"/>
+        <line class="cls-2" x1="-6" y1="5.99955" x2="78" y2="-77.99955"/>
+        <line class="cls-2" y1="5.99955" x2="78" y2="-71.99955"/>
+        <line class="cls-2" x1="6" y1="5.99955" x2="78" y2="-65.99955"/>
+        <line class="cls-2" x1="12" y1="5.99955" x2="78" y2="-59.99955"/>
+        <line class="cls-2" x1="18" y1="5.99955" x2="78" y2="-53.99955"/>
+        <line class="cls-2" x1="24" y1="5.99955" x2="78" y2="-47.99955"/>
+        <line class="cls-2" x1="30" y1="5.99955" x2="78" y2="-41.99955"/>
+        <line class="cls-2" x1="36" y1="5.99955" x2="78" y2="-35.99955"/>
+        <line class="cls-2" x1="42" y1="5.99955" x2="78" y2="-29.99955"/>
+        <line class="cls-2" x1="48" y1="5.99955" x2="78" y2="-23.99955"/>
+        <line class="cls-2" x1="54" y1="5.99955" x2="78" y2="-17.99955"/>
+        <line class="cls-2" x1="60" y1="5.99955" x2="78" y2="-11.99955"/>
+        <line class="cls-2" x1="66" y1="5.99955" x2="78" y2="-5.99955"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="-78" y1="0.00045" y2="-77.99955"/>
+        <line class="cls-2" x1="-78" y1="5.99955" x2="6" y2="-77.99955"/>
+        <line class="cls-2" x1="-72" y1="5.99955" x2="6" y2="-71.99955"/>
+        <line class="cls-2" x1="-66" y1="5.99955" x2="6" y2="-65.99955"/>
+        <line class="cls-2" x1="-60" y1="5.99955" x2="6" y2="-59.99955"/>
+        <line class="cls-2" x1="-54" y1="5.99955" x2="6" y2="-53.99955"/>
+        <line class="cls-2" x1="-48" y1="5.99955" x2="6" y2="-47.99955"/>
+        <line class="cls-2" x1="-42" y1="5.99955" x2="6" y2="-41.99955"/>
+        <line class="cls-2" x1="-36" y1="5.99955" x2="6" y2="-35.99955"/>
+        <line class="cls-2" x1="-30" y1="5.99955" x2="6" y2="-29.99955"/>
+        <line class="cls-2" x1="-24" y1="5.99955" x2="6" y2="-23.99955"/>
+        <line class="cls-2" x1="-18" y1="5.99955" x2="6" y2="-17.99955"/>
+        <line class="cls-2" x1="-12" y1="5.99955" x2="6" y2="-11.99955"/>
+        <line class="cls-2" x1="-6" y1="5.99955" x2="6" y2="-5.99955"/>
+      </g>
+    </pattern>
+    <image id="image" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAYAAAA6oTAqAAAACXBIWXMAAApNAAAKTQG1k+TGAAAITUlEQVRoQ92aa4ycVRnHf88578zs7LVd2m5b66YshdJAadOl0EqpASsGoiTVL0hCIIFEUz74RVNNDB+8kahVJCYkEAUxojEhKqHipZHUUkUtYOOKy62wXWyA7X23O7Mz7zmPH955Z+eyO7edJYZ/ssnueS9z/s/1f55ZUVUWA15VjYjUu6+dkMUiA5DN5jSXzVPGSaCnt3NRSAb1bmgW3qkaK3Lg6SP6/W8+SX4mBAEFBAhDz3U7N+h9372TRCrRVlJlZFzolIVEhirR88LPHjnA+Pk36XXL8RIWrguI8tSfDrL7pevZsm09+Zm8msDWfG0tqCrGGoyIlJGxgV0Ak1mMvfGujh8/Sa9bjhEQP/sxgTFkEP5+6D9s2ba+rd4py5mnfvGcjo6MYY2h1UxSVZ4/NMr4u+/QQQqvIIWXFRyDF8WK4SMfvYIVq/rwoUYx2CxU6e7tZPftOxn4UL9IGDq11siBp4/oF/Z+G9uGNOrwPaRIRlFXYZWYkApM2rMoIa0xAUHIaoZPbt/Fvh/tkUC9goWxN97BYlgWrMLlQ0y9N80DDyi+zCOliImIQp/203q2AEbIuZDjx94FIIiNYqyNNpIP8c7j539FQ6hl62LYOU9Y4756EIW8hAQ2Mn0QJ4d3DlDE2had/v7DAkaF0DkAAjHR1q8aHqLb93OKCaTQF+aHMts5FhPzvz9qAEJeZhjedl20VlrN/vXiMX313+ME1qBzBTygTrGBJTbCYsLlI4tjhErzigree3r7utjx8U2kOhKyqHLm/UZZHfZO1auvcq4SJWsilZCDv3tR9339SbKZGSJnL4IxRHDOs2XrOu7bdyddPWl86KvEiQIigrVRmJSRMVbEzFcsC5Lj548+y7Gzr7PErSCUhdSi+WEAVHjmLwe5+blruPGWYVEjGm96PjTVIb2qhs6T1h6MMSRc+eNihGZUvwEckdcrLxhj6NBOpqdmorUG0qEpMlFNEByu7OVxEwzJMy1TNF7lFKMBndJd1kzxoEZxJsQ0IRebIqMClTkSb8CJY0lPH1sv3xBVH6+FKjQPvGIDw5nTU7w2+l+gQjHEHm7AIzGaIjMXREGs4YKc5at77+CWz2xv3JQF3HXr/Try+mt0ajfqG998JRZMBgBVEiR4/uDLrFi5VGdmcvVzx1PwzCQTE+dJampBRKANZFRAVUn7Ln574DDP/PFv2AZkqgcMQk6yJLWDhA9mc6ZFNEVGNJIQlWsQkWolTJKmB/VaTUS1oFkaj9qmyKhEgjTQJNZanMyWVIl/mqg+RdhyEwlgrEGcxYeN6/eGycSjo+UDS/TcK++R0x5UXL3HWoZ6RcSyenBZtNCAh6rIeFVVr1VCUp2HwHLvl3fTv6ybyfMZjEihXLcXohA6z9XbLmPL9vXiVVWM4CuEpHqlVBV8MIVmHEYvH31Tf/XEIfJ5hyBoZZNUrd8Q2wWviK2ujILgnWNwaIDb7t5FV3dHudA0IuJCp1/74k84emKEFGl0wYfnxYNgyOgUyVSCOz7/CaAiZy5MZTl5copl4SoCa/5vqSgQWMsp7zlx/GRxvYyMiGCM4EwIFYq4rA/U74ntQcGaczVTB6gotqQVVFWzWuVADDhV3IJmKk3ACAkflCvqCpQuVZGZ84HCi7IyQ9qkWbq0F/GKU21K1TYKMQYxgs97Tk+ew6pg1NaVO3WbpgoYETJmmvVr1/KNB+9h5Zp+XN7R1ZNelJKWzeTUhY5kMuDA/iN86ytP1CUCDZARBWuEjExx06euZu26leKdqulIyshLx3R05Di2ge7cCBSls6uDnTdtLhrq5k9v55ePH9Sjr75Ct/bU1H51yUCscA1BEN1urMgLh0f13nt+wLQ5VyU+W4chJMutf9jF/Q99rtjx0+lkQToJtbK6ITIxStXCyNG3mDJnWGFWFyeKpahHb64tGSPkwhwj/xxj+kJWO7uiZqheVbT+VLopMqXRZK3BYFDnygYScY4pitZoVGKkKmS8QigeG5iyw50iePG1Sy1NkilF5KVyEhDl2LS5gCBYk2DuHUSHsrR0YVQqklupaYUaaJlMJeJZwBTnueHaYT5798fI56LvM7ffsFEA/vrsiCpKKplg5OhbPPLg/vmrVAslv21kIJrKh5Jh87WXcvWODVVps/2GK4trg5cM6GMP/Z5cPofUkRSCIg2cNdpGRiU6g/RIPz99+AD/ODyqxpgoHEsVtleChGV8bIKZMIvV2S3EvvClvxeqTiMVs21kYslh1DI1fYE/v/hCjbuVhE/T4VNluRZv14jBFAxgRESMqIpbvAIQoTw84ti3YunVpXPcXwpF0ap8MRjyeUduJqQjneLE2yf17eOnSPnOukeSlskIzC84PXU/eE6IIaEB585Osef2B+jsSun42ARnJs+T8ImoWNR4vGUy11y/gcEfX8yZyXNYsVUn0mYhwLScI6WdJDTB6FvH8Hg65pmpxTFhZDY6WiKTz4d62RWD8thv9urYa+80MjipCdWoCZ84cYqHH9jPxOnTdNIdXfO+hsj0dPWli39Vn2ca2JhINCkZWNUvA6v6693eMIaBsycn9Ts/fJyULscXlMVcRDxgSXL5lYPFterzTOXCPDAiEo+l2gHvPYlEIBu3DNHrLsIxxzd4ElV5GwSc9u9x1eAGdty4sXi9em7mtVgCY/dGURn9o0IpjIjQygRzDhiJ7P/hoQFSqSSZmQwWWxYp0QExR9ZPMLR0Hfd97y6CRCDxZKmstvb0dcqmzWvJ2AuINUX35r2jX1ayeeslhQ9u/xBATJR5Fy3vk03DF5OxU8U9xD8AQ2tWs+eu23j011/i0g1rorNVQZV+oIaA/wNItp/8jxWnlgAAAABJRU5ErkJggg=="/>
+    <image id="image-2" width="50" height="50" xlink:href="data:image/png;base64,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"/>
+  </defs>
+  <g>
+    <polygon class="cls-3" points="1935.231 695.19 1935.231 629.553 1860.96 629.553 1860.96 652.858 898.291 652.862 898.291 557.557 833.432 557.557 833.432 667.126 691.332 667.126 691.332 609.208 129.541 609.208 129.541 377.574 37.862 369.553 53.495 190.863 424.228 223.298 414.361 336.08 480.572 341.823 490.439 229.044 861.171 261.479 853.679 347.12 978.34 347.12 978.34 233.915 1794.96 233.915 1794.962 347.12 1880.122 347.12 1873.877 275.731 2244.609 243.296 2254.477 356.077 2374 345.62 2364.134 232.839 2734.866 200.404 2750.952 384.276 2709.269 387.923 2728.642 616.048 2757.472 620.021 2731.189 807.031 1935.231 695.19"/>
+    <path class="cls-4" d="M329.94849,893.03589l367.74359,32.17316-9.605,109.7918-.26178,2.99073,2.991.25964,63.22253,5.48425,2.98645.25891.26141-2.98645L766.892,931.21661l367.74359,32.1731-7.21887,82.51617-.2854,3.26136h127.79822V935.96155l813.62.00036.00244,110.20533v3h88.29712l-.28516-3.26136-5.97216-68.26367L2518.335,945.46875l9.60571,109.79175.26148,2.98852,2.98852-.26135,116.53614-10.19617,2.98852-.26135-.26147-2.98865-9.60523-109.79144L3008.592,902.5766l15.825,180.88324-38.69922,3.38562-2.981.26074.25317,2.98181,19.14453,225.43958.20337,2.39074,2.37671.32715,26.15137,3.603-25.86451,184.036-793.18164-111.45044v-65.83435h-77.26977v23.30615l-959.66907.00318V1256.604h-67.85925v109.56971H967.92139v-57.91748H406.13065V1076.747l-2.73856-.23963-88.81534-7.77038,15.37174-175.701m-2.72712-3.25006-15.89465,181.67828,91.80393,8.03174v231.76038H964.92139v57.91748h145.10034V1259.604H1171.881v95.30506l965.66907-.00318v-23.30615h71.26977v65.44214l798.73487,112.23071,26.70068-189.98535-29.13159-4.01355-19.14453-225.43957,41.68774-3.64722-16.34765-186.86035L2637.59863,932.023l9.8667,112.78-116.53613,10.196L2521.062,942.21869,2147.3418,974.9151l6.2334,71.25214H2071.552l-.00244-113.20533-819.62-.00036v113.20569h-121.5243l7.48035-85.50464-373.7207-32.69605-9.86676,112.78-63.22248-5.48437,9.8664-112.78028-373.72071-32.6961Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="1243.5196" y="233.30859" width="363.86621" height="126.55078"/>
+    <path class="cls-5" d="M1880.97534,935.356v123.5509H1520.10962V935.356h360.86572m3-3H1517.10962v129.5509h366.86572V932.356Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="2831.2873" y="911.01702" width="183.90148" height="122.97279" transform="translate(-348.72604 -442.06632) rotate(-5.00006)"/>
+    <path class="cls-5" d="M3008.11646,904.86176l10.45629,119.51641-180.21289,15.76648-10.4563-119.51635,180.2129-15.76654m2.727-3.25007-186.18995,16.28949,10.97925,125.4936,186.18994-16.28943-10.97924-125.49366Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="353.77601" y="868.3274" width="122.78807" height="184.57421" transform="translate(-853.0632 589.93445) rotate(-85.00001)"/>
+    <path class="cls-5" d="M329.94855,893.03583,510.83173,908.861l-10.44019,119.33228L319.50833,1012.3681l10.44022-119.33227m-2.72714-3.25006-10.96314,125.30944,186.86041,16.34815,10.96311-125.30951L327.22141,889.78577Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="129.39801" y="503.25391" width="318.44189" height="104.30957"/>
+    <path class="cls-5" d="M721.42957,1205.301v101.30969H405.98779V1205.301H721.42957m3-3H402.98779v107.30969H724.42957V1202.301Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="2741.01847" y="1201.70057" width="137.75505" height="416.16331" transform="translate(747.69899 3295.59315) rotate(-82.00038)"/>
+    <path class="cls-5" d="M2614.7019,1314.30957l409.14234,57.50122-18.7544,133.44421-409.14209-57.50134,18.75415-133.44409m-2.55322-3.38831L2592.55933,1450.307l415.08374,58.3363,19.5896-139.38574-415.084-58.33631Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="1395.95514" y="515.68652" width="395.4707" height="137.75537"/>
+    <path class="cls-5" d="M2065.01562,1217.73376v134.75562H1672.5448V1217.73376h392.47082m3-3H1669.5448v140.75562h398.47082V1214.73376Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="1165.91413" y="233.91455" width="76.37988" height="125.20776"/>
+    <path class="cls-6" d="M1515.88379,935.96173v122.20795h-73.38013V935.96173h73.38013m3-3h-79.38013v128.20795h79.38013V932.96173Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-7" x="1530.711" y="233.91455" width="76.37988" height="125.20801"/>
+    <path class="cls-8" d="M1807.30066,935.96179l73.38013.00006V1058.1698h-73.38013v-122.208m-3-3v128.208h79.38013V932.96185l-79.38013-.00006Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <path class="cls-9" d="M852.355,1116.24515" transform="translate(-275.08978 -700.54736)"/>
+  <path class="cls-9" d="M594.52151,1097.01428" transform="translate(-275.08978 -700.54736)"/>
+  <g>
+    <rect class="cls-7" x="129.54059" y="503.25391" width="318.29932" height="105.95459"/>
+    <path class="cls-8" d="M721.42957,1205.301V1308.2561H406.13049V1205.301H721.42957m3-3H403.13049V1311.2561H724.42957V1202.301Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <polygon class="cls-5" points="691.332 667.126 691.332 609.208 647.248 609.208 647.248 503.254 762.279 503.254 762.279 667.126 691.332 667.126"/>
+    <path class="cls-6" d="M1035.86853,1205.301v160.8728H967.92126V1308.2561H923.83759V1205.301h112.03094m3-3H920.83759V1311.2561h44.08367v57.91773h73.94727V1202.301Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <line class="cls-10" x1="763.77877" y1="583.81582" x2="834.93194" y2="583.81582"/>
+    <line class="cls-10" x1="763.77877" y1="595.65937" x2="834.93194" y2="595.65937"/>
+    <line class="cls-10" x1="763.77877" y1="571.97226" x2="834.93194" y2="571.97226"/>
+    <line class="cls-10" x1="763.77877" y1="607.50293" x2="834.93194" y2="607.50293"/>
+    <line class="cls-10" x1="763.77877" y1="619.34649" x2="834.93194" y2="619.34649"/>
+    <line class="cls-10" x1="763.77877" y1="631.19004" x2="834.93194" y2="631.19004"/>
+    <line class="cls-10" x1="763.77877" y1="643.0336" x2="834.93194" y2="643.0336"/>
+    <line class="cls-10" x1="763.77877" y1="654.87716" x2="834.93194" y2="654.87716"/>
+  </g>
+  <g>
+    <line class="cls-10" x1="1945.65354" y1="602.57341" x2="2030.48976" y2="612.37377"/>
+    <line class="cls-10" x1="1944.2944" y1="614.33872" x2="2029.13062" y2="624.13908"/>
+    <line class="cls-10" x1="1947.01268" y1="590.8081" x2="2031.8489" y2="600.60845"/>
+    <line class="cls-10" x1="1942.93526" y1="626.10403" x2="2027.77148" y2="635.90439"/>
+    <line class="cls-10" x1="1941.57612" y1="637.86935" x2="2026.41234" y2="647.6697"/>
+    <line class="cls-10" x1="1940.21698" y1="649.63466" x2="2025.0532" y2="659.43502"/>
+    <line class="cls-10" x1="1938.85784" y1="661.39997" x2="2023.69406" y2="671.20033"/>
+    <line class="cls-10" x1="1937.4987" y1="673.16528" x2="2022.33492" y2="682.96564"/>
+  </g>
+  <g>
+    <polygon class="cls-7" points="42.583 315.595 53.495 190.863 237.367 206.95 226.454 331.682 42.583 315.595"/>
+    <path class="cls-8" d="M329.94855,893.03583,510.83173,908.861l-10.6511,121.743-180.88321-15.82531,10.65113-121.74286m-2.72714-3.25006-11.174,127.72,186.86042,16.3482,11.174-127.72015L327.22141,889.78577Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="539.32108" y="885.88099" width="125.20794" height="184.57396" transform="translate(-700.07374 791.99812) rotate(-84.99977)"/>
+    <path class="cls-11" d="M516.8089,909.38391l180.88324,15.8252L687.04108,1046.952l-180.88324-15.8252L516.8089,909.38391m-2.72711-3.25006-11.174,127.72015,186.86041,16.348,11.174-127.72L514.08179,906.13385Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="2154.07166" y="967.99715" width="184.57445" height="125.20786" transform="translate(-356.36537 -500.84012) rotate(-5.00006)"/>
+    <path class="cls-12" d="M2331.47485,961.817l10.65113,121.74285-180.8833,15.82532-10.65113-121.743,180.8833-15.82513m2.727-3.25007L2147.34155,974.915l11.17407,127.72015L2345.376,1086.287l-11.17408-127.7201Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="2340.93201" y="951.649" width="184.57445" height="125.20786" transform="translate(-354.22944 -484.61619) rotate(-5.00006)"/>
+    <path class="cls-12" d="M2518.33521,945.46881l10.65112,121.74286L2348.103,1083.037,2337.4519,961.294l180.88331-15.8252m2.727-3.25006L2334.2019,958.56689,2345.376,1086.287l186.86035-16.34815-11.17407-127.72009Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="2644.3285" y="925.10506" width="184.57445" height="125.20786" transform="translate(-350.76141 -458.27414) rotate(-5.00006)"/>
+    <path class="cls-12" d="M2821.73169,918.9248l10.65112,121.7428-180.8833,15.82532L2640.84839,934.75l180.8833-15.8252m2.727-3.25006-186.86035,16.34815,11.17407,127.72,186.86035-16.34814-11.17407-127.72Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <polygon class="cls-7" points="2550.994 216.491 2734.866 200.404 2745.778 325.136 2561.906 341.223 2550.994 216.491"/>
+    <path class="cls-8" d="M3008.592,902.57666l10.65112,121.74292-180.8833,15.8252-10.65112-121.74292,180.8833-15.8252m2.727-3.25006-186.86035,16.34814,11.17407,127.72,186.86035-16.348L3011.31909,899.3266Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="789.40422" y="907.71339" width="125.20792" height="184.57421" transform="translate(-493.53721 1061.05912) rotate(-84.99977)"/>
+    <path class="cls-11" d="M766.892,931.21655l180.8833,15.8252-10.65112,121.74292L756.241,1052.95935,766.892,931.21655m-2.72711-3.25006-11.174,127.72,186.86041,16.34815,11.17407-127.72L764.16492,927.96649Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="1610.38581" y="233.91455" width="184.57422" height="125.20801"/>
+    <path class="cls-13" d="M1886.97534,935.96179l181.57422.00006V1058.1698l-181.57422-.00012V935.96179m-3-3v128.20789l187.57422.00012V932.96185l-187.57422-.00006Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-7" x="1243.51984" y="234.20898" width="139.56128" height="125.20801"/>
+    <path class="cls-8" d="M1520.10962,936.25647l136.5614.00006v122.208l-136.5614-.00012V936.25647m-3-3v128.20789l142.5614.00012v-128.208l-142.5614-.00006Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <polygon class="cls-14" points="181.177 457.037 409.884 457.037 409.884 403.608 181.177 383.598 181.177 457.037"/>
+  <polygon class="cls-14" points="878.176 450.102 482.184 415.458 482.184 463.655 878.176 463.655 878.176 450.102"/>
+  <g>
+    <rect class="cls-5" x="1794.42585" y="544.5332" width="66.53418" height="108.90869"/>
+    <path class="cls-5" d="M2134.5498,1246.58057v105.90881h-63.53418V1246.58057h63.53418m3-3h-69.53418v111.90881h69.53418V1243.58057Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="973.22711" y="515.68652" width="419.72803" height="137.75537"/>
+    <path class="cls-5" d="M1666.5448,1217.73376v134.75562h-416.728V1217.73376h416.728m3-3h-422.728v140.75562h422.728V1214.73376Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-7" x="973.22711" y="515.10303" width="419.72803" height="137.75537"/>
+    <path class="cls-8" d="M1666.5448,1217.15027v134.75549h-416.728V1217.15027h416.728m3-3h-422.728v140.75549h422.728V1214.15027Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-7" x="1395.95514" y="515.68652" width="288.90625" height="137.75537"/>
+    <path class="cls-8" d="M1958.45166,1217.73376v134.75562H1672.5448V1217.73376h285.90686m3-3H1669.5448v140.75562h291.90686V1214.73376Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-7" x="1687.86139" y="515.68652" width="103.56445" height="137.75537"/>
+    <path class="cls-8" d="M2065.01562,1217.73376v134.75562h-100.564V1217.73376h100.564m3-3h-106.564v140.75562h106.564V1214.73376Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-14" x="967.47615" y="419.65836" width="417.28115" height="48.29834"/>
+    <rect class="cls-14" x="1454.7333" y="419.65836" width="367.01677" height="48.29834"/>
+  </g>
+  <polygon class="cls-14" points="1875.008 494.167 2260.228 548.447 2277.265 427.224 1872.252 462.658 1875.008 494.167"/>
+  <polygon class="cls-14" points="2652.325 394.411 2342.63 421.506 2323.536 557.368 2670.864 606.308 2652.325 394.411"/>
+  <g>
+    <rect class="cls-5" x="503.73493" y="503.25391" width="140.5127" height="105.95459"/>
+    <path class="cls-11" d="M917.83759,1205.301V1308.2561h-137.513V1205.301h137.513m3-3h-143.513V1311.2561h143.513V1202.301Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-7" x="1794.42585" y="544.5332" width="66.53418" height="108.3252"/>
+    <path class="cls-8" d="M2134.5498,1246.58057v105.32519h-63.53418V1246.58057h63.53418m3-3h-69.53418v111.32519h69.53418V1243.58057Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <line class="cls-15" x1="1941.23007" y1="580.10829" x2="1941.23007" y2="696.50145"/>
+  <g>
+    <rect class="cls-5" x="978.33991" y="233.91455" width="184.57422" height="125.20776"/>
+    <path class="cls-11" d="M1436.50366,935.96173v122.20795H1254.92957V935.96173h181.57409m3-3H1251.92957v128.20795h187.57409V932.96173Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="1610.09088" y="233.91455" width="184.86914" height="125.20801"/>
+    <path class="cls-12" d="M2068.54956,935.96185V1058.1698H1886.68079V935.96185h181.86877m3-3H1883.68079V1061.1698h187.86877V932.96185Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="1386.08112" y="233.91455" width="141.62988" height="125.20752"/>
+    <path class="cls-16" d="M1662.671,935.96167l138.62964.00006v122.20795l-138.62964-.00012V935.96167m-3-3v128.20789l144.62964.00012V932.96173l-144.62964-.00006Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="976.2647" y="924.06165" width="125.2079" height="184.57396" transform="translate(-339.24569 1262.136) rotate(-85)"/>
+    <path class="cls-11" d="M953.7525,947.5647l180.88324,15.82519-10.65112,121.74292L943.10138,1069.3075,953.7525,947.5647m-2.72711-3.25006-11.17407,127.72,186.86047,16.34814,11.17395-127.72L951.02539,944.31464Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="2299.157" y="1277.86262" width="139.02584" height="139.81871" transform="translate(429.26983 2805.26949) rotate(-82.00001)"/>
+    <path class="cls-6" d="M2310.3916,1270.8999l135.48755,19.04163L2426.94824,1424.644l-135.48755-19.04162,18.93091-134.70252m-2.55322-3.3883-19.76611,140.64416,141.42919,19.87659,19.76612-140.64417-141.4292-19.87658Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <polygon class="cls-7" points="2319.981 749.239 2339.329 611.566 2500.232 634.18 2480.885 771.853 2319.981 749.239"/>
+    <path class="cls-8" d="M2615.69556,1313.80762l157.9331,22.196-18.93115,134.70264-157.93311-22.19605,18.93116-134.70263m-2.55323-3.38831L2593.376,1451.06348l163.87475,23.03112,19.76636-140.64416-163.87476-23.03113Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <polygon class="cls-7" points="2483.856 772.271 2503.203 634.597 2750.537 669.358 2731.189 807.031 2483.856 772.271"/>
+    <path class="cls-8" d="M2779.57031,1336.83875l244.36255,34.34277-18.9314,134.70264-244.36254-34.34278,18.93139-134.70263m-2.55322-3.38831-19.76636,140.64416,250.304,35.17786L3027.321,1368.6283l-250.30395-35.17786Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="2451.80886" y="1287.98302" width="139.02584" height="162.48562" transform="translate(539.43161 2974.90381) rotate(-82.00001)"/>
+    <path class="cls-12" d="M2451.8208,1290.77649l157.93311,22.196-18.93116,134.70264-157.9331-22.196,18.93115-134.70264m-2.55322-3.38831-19.76612,140.64417,163.87452,23.03113,19.76635-140.64417-163.87475-23.03113Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <g>
+    <path class="cls-17" d="M2402.02915,1383.14185h-67.61828l-1.62136-1.62136v-67.62342l1.62136-1.62136h67.61828l1.62136,1.62136v67.62342Z" transform="translate(-275.08978 -700.54736)"/>
+    <g>
+      <circle class="cls-18" cx="2093.13023" cy="628.90528" r="5.19545"/>
+      <polygon class="cls-18" points="2081.623 670.613 2104.637 670.613 2093.13 641.902 2081.623 670.613"/>
+    </g>
+  </g>
+  <g>
+    <path class="cls-19" d="M1013.66479,1292.92219H946.04137l-1.62136-1.62136v-67.62342l1.62136-1.62136h67.62342l1.62136,1.62136v67.62342Z" transform="translate(-275.08978 -700.54736)"/>
+    <g>
+      <circle class="cls-18" cx="704.7633" cy="538.68561" r="5.19564"/>
+      <polygon class="cls-18" points="716.271 551.682 693.256 551.682 704.763 580.394 716.271 551.682"/>
+    </g>
+  </g>
+  <g>
+    <path class="cls-20" d="M2206.99675,1323.93372h-67.62342l-1.62136-1.62136v-67.62342l1.62136-1.62136h67.62342l1.62137,1.62136v67.62342Z" transform="translate(-275.08978 -700.54736)"/>
+    <g>
+      <circle class="cls-21" cx="1907.48669" cy="584.5642" r="3.93727"/>
+      <polygon class="cls-22" points="1898.766 614.584 1916.207 614.584 1907.487 592.827 1898.766 614.584"/>
+      <circle class="cls-21" cx="1890.05084" cy="584.5642" r="3.93727"/>
+      <polygon class="cls-22" points="1898.771 594.011 1881.33 594.011 1890.051 615.769 1898.771 594.011"/>
+      <rect class="cls-23" x="1875.41189" y="571.75901" width="45.36676" height="42.8263"/>
+      <g>
+        <polygon class="cls-24" points="1891.342 559.097 1887.25 566.183 1895.433 566.183 1891.342 559.097"/>
+        <polygon class="cls-24" points="1904.849 566.183 1908.94 559.097 1900.757 559.097 1904.849 566.183"/>
+      </g>
+    </g>
+  </g>
+  <rect class="cls-5" x="1903.54942" y="631.05254" width="30.18098" height="25.04464"/>
+  <g>
+    <path class="cls-20" d="M1766.83168,1097.3399h-67.62342l-1.62136-1.62137v-67.62342l1.62136-1.62136h67.62342l1.62136,1.62136v67.62342Z" transform="translate(-275.08978 -700.54736)"/>
+    <path class="cls-8" d="M1729.20917,1039.59371h7.56836v7.02148h-7.56836Zm0,12.08984h7.56836v31.78711h-7.56836Z" transform="translate(-275.08978 -700.54736)"/>
+  </g>
+  <line class="cls-25" x1="2291.57622" y1="556.59881" x2="2311.0628" y2="417.94166"/>
+  <line class="cls-26" x1="1149.0987" y1="390.28773" x2="1266.08831" y2="390.28773"/>
+  <line class="cls-27" x1="1204.10395" y1="180.22196" x2="1204.10395" y2="302.18634"/>
+  <line class="cls-27" x1="2242.71489" y1="667.66267" x2="2242.71489" y2="773.96548"/>
+  <rect class="cls-20" x="305.49163" y="759.79104" width="51.77719" height="51.77719" transform="translate(-733.59015 -236.10593) rotate(-45)"/>
+  <text class="cls-28" transform="translate(148.03961 128.90625)">2F</text>
+  <g>
+    <line class="cls-29" x1="604.42447" y1="891.1455" x2="2775.64184" y2="891.1252"/>
+    <g>
+      <rect class="cls-20" x="17.48991" y="842.13979" width="454.66986" height="106.06967" rx="7.42114"/>
+      <g>
+        <path class="cls-5" d="M367.8875,1629.56232v3.28125h-8.39843c.083-3.84277.083-3.84277.25146-18.88183v-34.23829c-.083-15.27832-.083-15.27832-.25146-18.00293,4.45068.16114,11.00341.32227,16.7163.32227h38.72315c5.71289,0,12.26318-.16113,16.71631-.32227-.16846,2.80274-.16846,2.80274-.25147,18.00293v34.23829c.083,14.7998.083,14.7998.25147,18.88183H423.244v-3.28125Zm55.35645-60.16113H367.8875v52.88086H423.244Zm-15.37109,31.3623c0,1.60157.083,6.40137.25146,9.36035v1.20118c0,3.999-.75439,5.99609-2.85645,7.3584-2.26806,1.60156-5.03906,2.00195-12.60009,2.00195h-.7544a26.21158,26.21158,0,0,0-1.59668-8.40332,50.91369,50.91369,0,0,0,5.459.23926c3.69629,0,4.0332-.23926,4.0332-3.27637v-20.32227H380.4876c-2.771,0-7.47558.07813-10.07812.16114v-7.68067c2.43408.07813,6.97021.16113,10.07812.16113h19.32129c-.083-4.96093-.25146-9.36035-.58838-10.56152l9.15527.56152c.75684.07813,1.25977.4004,1.25977.87891s-.50293.87891-1.51123,1.44043a67.37835,67.37835,0,0,0-.25146,7.68066h3.10791c3.10791,0,7.72705-.083,10.08056-.16113v7.68067c-2.51953-.083-7.30957-.16114-10.08056-.16114h-3.10791Zm-24.52881-9.043a51.91221,51.91221,0,0,1,11.00586,11.84082l-7.05811,5.12208a66.14254,66.14254,0,0,0-9.82666-12.48047Z" transform="translate(-275.08978 -700.54736)"/>
+        <path class="cls-5" d="M446.84746,1595.80256a67.965,67.965,0,0,1-5.12451,8.24218c-1.93115-4.24316-2.688-5.43945-4.8706-7.91992,7.72705-11.3623,12.60009-22.48047,16.37939-37.76367l8.064,2.96387c.75683.31738,1.17675.71777,1.17675,1.19629,0,.56152-.2539.80078-2.0166,1.27929a129.17947,129.17947,0,0,1-6.38427,17.68067l1.25976.083c.83984.07813,1.34522.4004,1.34522.80079,0,.55664-.50538.957-1.68213,1.59668v32.71972c0,7.20215.08545,12.88086.2539,16.40137H446.596c.16846-3.59863.25146-9.03809.25146-16.40137Zm55.43946,23.999c-1.25977-.07813-3.44239-.07813-5.03906-.07813H489.5208c.083,5.60059.166,10,.33448,13.35938h-8.8208c.16845-3.35938.2539-7.8418.33691-13.35938h-7.89551c-1.67969,0-3.77929,0-5.0415.07813v-6.15723a85.94692,85.94692,0,0,1-8.90381,8.32032c-1.93115-4.48243-2.51953-5.60059-4.03076-7.36329,6.97265-5.918,9.91211-9.03808,14.02832-14.71679a81.20771,81.20771,0,0,0,8.90381-15.52246h-7.47559c-4.28467,0-9.8291.16113-13.35693.23925v-7.83691c3.52783.15625,9.07226.23926,13.35693.23926h10.415c-.083-9.59961-.25146-15.52246-.50293-17.60254l8.98682.56152c.75683,0,1.25976.40039,1.25976.80078,0,.47852-.41992.87891-1.51123,1.51856-.083,2.6416-.083,2.959-.16845,14.72168h12.6831c3.86475,0,9.8291-.083,13.43994-.23926v7.83691c-3.61084-.07812-9.57519-.23925-13.43994-.23925H492.04034A62.75088,62.75088,0,0,0,501.784,1600.285c4.61914,5.75683,7.30713,8.2373,15.95947,14.71679-2.51953,2.48047-2.771,2.80274-5.293,6.71875a104.8954,104.8954,0,0,1-10.16357-9.11621Zm-28.811-7.43652h7.89551v-17.76368a80.29132,80.29132,0,0,1-8.56689,13.9209c-1.00831,1.2793-2.10206,2.48047-3.19336,3.75977Zm15.95948,0h7.8125l4.78759-.083a72.80692,72.80692,0,0,1-6.63574-8.08106,69.27433,69.27433,0,0,1-5.96435-9.83886Z" transform="translate(-275.08978 -700.54736)"/>
+        <path class="cls-5" d="M597.54327,1598.12189c-4.45313-.23926-11.67725-.31738-16.80176-.31738H538.742c-4.61914,0-12.18018.15625-16.71631.31738v-8.63769c4.36767.16113,11.92871.31738,16.71631.31738h41.99951c5.293,0,12.51709-.15625,16.80176-.31738Z" transform="translate(-275.08978 -700.54736)"/>
+        <path class="cls-5" d="M652.72881,1622.36506c0,2.1582.25147,2.63671,1.34522,2.959a44.85816,44.85816,0,0,0,7.644.47852c1.51123,0,6.04736-.23926,7.39014-.31739,2.688-.24414,3.78173-1.3623,4.0332-3.9209.083-1.91894.16846-3.20312.16846-4.88281a29.429,29.429,0,0,0,7.55859,2.31934c-1.0083,8.24219-1.17432,9.043-2.93945,10.64453-2.09961,1.91894-6.8042,2.71973-16.29639,2.71973a84.82873,84.82873,0,0,1-10.92041-.40039c-4.11377-.80079-5.542-2.80274-5.542-7.8418v-3.999h-5.7959c-4.0332,6.07911-7.30957,8.48145-14.27979,10.63965-5.293,1.67969-9.40917,2.31934-19.23828,3.03711a29.41592,29.41592,0,0,0-2.43408-6.87988,90.32953,90.32953,0,0,0,17.55615-1.99707c4.45069-1.04,6.97022-2.24121,9.32373-4.79981h-5.20752v1.75782h-8.0664c.16846-1.84082.2539-4.56055.2539-8.47657v-13.60351c0-2.48047-.08544-5.60059-.2539-7.041,2.94189.083,5.54443.16114,9.32617.16114h30.99609c3.7793,0,6.38184-.07813,9.32373-.16114-.16845,1.44043-.2539,4.56055-.2539,7.041v13.28125c0,3.75976.08545,6.47949.2539,8.32031h-8.064v-1.2793h-5.88135Zm-19.40429-36.96289c3.19335,0,7.478-.07813,9.99755-.16114v5.83985c-2.51953-.07813-7.22412-.23926-9.99755-.23926h-20.1587v2.6416h-7.644c.083-2.88086.16846-6.80176.16846-11.67969v-13.35937c0-2.40235-.08545-5.60059-.16846-7.11914,2.35108.15625,2.35108.15625,9.82666.15625h16.6333c3.19092,0,7.47559-.07813,9.99512-.15625v5.83984c-2.51953-.083-7.22412-.24414-9.99512-.24414h-5.54443v3.28125h4.61914c4.0332,0,5.7959-.07813,7.89795-.16113-.08545,1.123-.16846,3.75976-.16846,5.68359v1.44043c0,2.23633.083,3.83789.16846,6.31836h-7.14112v-1.11816h-5.376v3.03711Zm-13.94288-18.48145h-6.21582v3.28125h6.21582Zm12.43164,8.00293H613.16582v2.6416h18.64746Zm-12.43164,7.44141h-6.21582v3.03711h6.21582Zm39.22852,15.99609H625.09453v2.002h33.51563Zm0,7.041H625.09453v2.08007h33.51563Zm0,7.11914H625.09453v2.16308h33.51563Zm-5.96436-39.59961a67.5841,67.5841,0,0,1-7.47558,10,23.41554,23.41554,0,0,0-5.293-4.96094c5.7959-6.24024,8.56689-10.71777,11.84326-19.03809l6.72119,1.60157c1.17676.23925,1.67969.63964,1.67969,1.19628,0,.64454-.33691.88379-2.18506,1.20118-.58594,1.20117-1.09131,2.24121-1.59424,3.28125h19.57032l5.0415-.07813v6.87988l-5.0415-.083Zm24.86329,13.60351c-1.25977-.083-3.35938-.083-5.03907-.083H653.90557c-1.59668,0-3.7793,0-5.03906.083v-7.124c1.25976.083,3.44238.083,5.03906.083H672.47c1.67969,0,3.7793,0,5.03907-.083Z" transform="translate(-275.08978 -700.54736)"/>
+      </g>
+    </g>
+    <line class="cls-29" x1="604.42447" y1="853.55514" x2="604.42447" y2="936.79412"/>
+  </g>
+  <text class="cls-30" transform="translate(857.81501 1185.09326)">ジオラマの展示を行っています<tspan class="cls-31" x="490" y="0">。</tspan></text>
+  <text class="cls-30" transform="translate(1590.89655 1188.22217)">ジオラマの展示などをしています</text>
+  <text class="cls-30" transform="translate(1583.60358 1448.04639)">学而時習之。不亦説乎<tspan class="cls-31" x="350" y="0">。</tspan></text>
+  <text class="cls-30" transform="translate(1583.60163 1502.03271)">知名度低いけど頑張ってます</text>
+  <text class="cls-30" transform="translate(2313.23249 1462.15771)">煌めく乙女の波動を感じなさいませ～</text>
+  <text class="cls-30" transform="translate(2261.84967 1188.59131)">おかえりなさいませ！カジノの<tspan x="0" y="45">時間です！メイドがお給仕します！</tspan></text>
+  <text class="cls-30" transform="translate(1583.72272 1713.06982)">ボートしか勝たん！</text>
+  <text class="cls-30" transform="translate(2313.23249 1716.20068)">日頃の成果をご覧ください<tspan class="cls-31" x="420" y="0">。</tspan></text>
+  <text class="cls-30" transform="translate(2317.16217 1970.7124)">大人も子供も、おにーさんも<tspan class="cls-31" x="455" y="0">。</tspan></text>
+  <text class="cls-30" transform="translate(857.81305 1455.89795)">鎌倉殿<tspan class="cls-32" x="105" y="0">の</tspan><tspan x="148.75" y="0">1</tspan><tspan class="cls-32" x="168.03467" y="0">3</tspan><tspan x="196.06934" y="0">人の展示やってます！</tspan></text>
+  <text class="cls-30" transform="translate(857.8111 1709.94287)">将棋や囲碁の対局ができま<tspan class="cls-32" x="420" y="0">す</tspan><tspan x="463.75" y="0">!</tspan></text>
+  <text class="cls-30" transform="translate(130.53766 1455.8999)">鎌倉と京都のレポート展示</text>
+  <text class="cls-30" transform="translate(130.55524 1706.81396)">写真とスライドショーを公開中！</text>
+  <use transform="translate(2219.15107 1278.87371) scale(1.07761)" xlink:href="#image"/>
+  <text class="cls-33" transform="translate(2309.03522 1329.71436)">お嬢様部</text>
+  <text class="cls-34" transform="translate(2315.35163 1398.3374)">3-D</text>
+  <use transform="translate(2219.15107 1535.13234) scale(1.07761)" xlink:href="#image"/>
+  <text class="cls-33" transform="translate(2309.03522 1585.97217)">写真部</text>
+  <text class="cls-34" transform="translate(2315.73249 1654.15576)">3-C・<tspan class="cls-32" x="100.51953" y="0">D</tspan><tspan x="138.99902" y="0">間の渡り廊下</tspan></text>
+  <use transform="translate(2219.15107 1017.23837) scale(1.07761)" xlink:href="#image"/>
+  <text class="cls-33" transform="translate(2309.03327 1068.07959)">メイドカジノ</text>
+  <text class="cls-34" transform="translate(2313.23249 1128.07178)">3-C</text>
+  <use transform="translate(2225.45246 1789.43075) scale(1.07761)" xlink:href="#image"/>
+  <text class="cls-33" transform="translate(2315.33405 1840.271)">化学部</text>
+  <text class="cls-34" transform="translate(2317.47077 1908.45459)">化学講義室</text>
+  <use transform="translate(1490.54972 1535.13218) scale(1.07761)" xlink:href="#image"/>
+  <text class="cls-33" transform="translate(1580.4317 1585.97217)">漕艇部</text>
+  <text class="cls-34" transform="translate(1585.15827 1651.98779)">3-B</text>
+  <use transform="translate(1490.54972 1278.87396) scale(1.07761)" xlink:href="#image"/>
+  <text class="cls-33" transform="translate(1580.4317 1329.71436)">史学部・新聞部</text>
+  <text class="cls-34" transform="translate(1583.72467 1397.89795)">3-A</text>
+  <g>
+    <image width="50" height="50" transform="translate(67.56311 1017.44036) scale(1.13571)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAmwAAAJsAGOI9U1AAAIMklEQVRoQ92aa4xdVRXHf2vtc++dO09m6JPgpBSkNLyalkcrDykiBqIk6AeVhICBRCMf/GKCJoYPvkhUFIkJCSSKGNGYECMB8dFAR0ChFrBxxOFVmBablul7pjN37j17Lz+ceztz34/eIcZ/MsnJOfvss/97rfXf/73viJmxFAhmpiLSrF23IEtFBCCXy1s+V6CMj8DAYG/XCUbNGrSL4M3UiWx7cqf96DuPU5iPQcAAAeI4cMXV6+2eH9xGKpPqGqEyIj72xqlkgxnJ+8IvH97G3uPvMOiXEyQuPhcQ44lnxrj51avYuHkdhfmCaeQadtsIZoY6HSsj4iJ3CiwWMPn2Adu75yCDfjkqIGHhM5Eqcwg7nvs3Gzev61pUymrkiV8/bxPjkzhVOq0cM+PF5ybYe2A/PWQIBlLsrBgQghhOlI989HxWrB4ixJbkXbswo3+wl5tvuXpM4tibcyrbntxpX7n7e7gulE1PGCBDOsm0ihkpkTGBaXcUI6YzFiAIOZvjk1uuG4ssGDiYfHs/DmVZtBpfiNFmvdRBAIxQFonFKJEQgyEbofPqAFTI+5g9uw8QlSZDnUsGUYgJPhAa9tAcjeb4ZKr5QNygXTOIQUFiIqdEpWII3gOGONdhoD94OEBNiL0nEk2GfdGmtfSHEQ4xhRR1vz6MhZVhKVG//0TkhYLMs2nzFeWq9c9Xdtsb/9pL5BSrleCAecNFjtIELCV8wScXKlROrZgQQmBwqI8rP37x2JJalA8SZVobvFmwUBVQIynMVCYlY394xe771uPk5uZJArwEEyGC94GNl57DPffdRt9AlhCHKtNhgIjgnEoZEXUiWk8QizbiVz97lt1H3+I0v4JYTkVz6kMBTHj6r2Pc8PxlXHvjJjEVc65+Pre1+gUzi30gawOoKilf/rqo0I5zV8CTRLvygarSY73Mzswn95qUQFtEkvoXPL6s49ICF1NgVmZoXc0MtYhe6S9bKAlganiN0RbtX1tETKCyJkof9+I5bWCIS89bn6hMsKLa1EEwXKQcOTzDmxP/ASqcQCmyLYpRW0RqQQzEKSfkKN+4+1Zu/MyW1qZwEW6/6V4bf+tNeq0fC60NvBKnTAQAM1KkeHHsNVasGrb5+XzzWgkUIzLN1NRx0pbpmAR0gYgJmBnZ0Mfvt73A039+CdeC5QyAIuQlR9p6SIVooUY6QFtExBJbUHkPEkKdpEZaB7Bg1STMij6ktUxti4hJYi4jS+Ocw8uCbErpr0WVKYMrnx4B1CniHSFuzYe3TKR0vLN85Wl27PX3ydsAJr7Zax3DgiHiOGN0WXKjSWSqiAQzs2BVptB8gMhx19duZmRZP9PH51CRoiR3F2IQ+8Alm89l45Z1EsxMVAgVxtCCUVrt//9MYyl1Xtv1jv32secoFDyCYJULoFnzxa5bCIa4agUUhOA9o2tX8rk7rqOvv2fBNKqI+NjbN7/6c3btGydDFjvlDe/SQVDmbIZ0JsWtX/pEeY2cmMlx8OAMy+LVRE7/Z2kYEDnHoRDYt+cgUFHsIoKq4DWGCmdbpvPN17vuoDiTtRZKD5gYrij3VarVqPRFwZvhT+nsow2okApRuTOuQOlWFZGajYud5GSerGYZHh5EguHNWnan7UBUERVCIXB4+hjOBDXX0MI0XRBNQEWY01nWrVnDtx+4k1VnjuALnr6B7JJIV24ubz72pNMR257ayXe//lhTH9aUiBg4FeZkhus/dQlrzlklwZtpT1rGX91tE+N7cC36oWYwjN6+Hq6+fsPJSbrh01v4zaNjtuuN1+m3gbperikRKDlVJYqS5upEXn5hwu6688fM6rEqI9k5lJgcN/3pOu598IsnV/JsNl20Q0K9Km6JSAmLXcD4rneZ0SOs0DOIfbXnakat1nBUhXycZ/wfk8yeyFlvX48AWDATa3xK3BaRxRnknKIo5n3Z4UGppgzDGixEolKVJsEgloCLtGxjZghBQkNJbYvIYiTRKScASU3N6gkEwWmK2l9PNlRZ6UNNKgrZaDgDddAxkUqU9u4zHGfr5Zv4/B0fo5BPfj/csvVCAfjbs+NmGJl0ivFd7/LwA0/VV6M2Zb1rRCA5HY9ljg2Xf5hLrlxfVSZbtl5w8t7o2SvtkQf/SL6QR5pYBcGQJvuFrhExSfYQAzLCLx7axt9fmDBVTVJwsVMORpRy7J2cYj7O4WxhCKUYhMXXRYVppoxdI1KyEWqOmdkT/OWVlxu0NlIhS0/IlNVWaagqihbJq4iIipn4pSn2BOUpUcp1J45BG67RfjEMw6rqQ1EKBU9+PqYnm2HfewftvT2HyITehtuKjokI1DePgc72MqKkLOLY0Rm+fMv99PZlbO/kFEemj5MKqUQY6rzaMZHLrlrP6E/P4sj0MZy4qp1kuxBgVo6RsV5SlmLi3d0EAj11zrxKuaCSXHVEpFCI7dzzR+WR391tk2/ub3bA0RRmyQK7b98hHrr/KaYOH6aX/uRZCA0MY6BvKAvU2o+0MCiR5ERj5eoRWbl6pFnzlrEJOHpw2r7/k0fJ2HJC0THUIhEAR5rzLhgFau1HKm/UgYpI6eioGwghkEpFcuHGtQz60/HU+OVMEiV3UcTh8D4Xja7nymsvBGqdawU7KXOlkCZZmPwTwGKoiNDJyWINqCTz/qG1K8lk0szNz+FwZRmSbO7y5MIUa4fP4Z4f3k6UiiSYbS8jMjDUKxdvWLP9mR07GLBhKIa2EDwj0So2XHp28aM6RpchmlTa6cuH5OJNZ21/9qXyMZSw9swzuOb6G/jsF7YyvGzomuBtuzq55r/w6qHo5oPf1wAAAABJRU5ErkJggg=="/>
+    <use transform="translate(0 1017.88956) scale(1.12845)" xlink:href="#image-2"/>
+  </g>
+  <text class="cls-33" transform="translate(167.58454 1068.07764)">本部</text>
+  <text class="cls-34" transform="translate(171.95758 1128.96631) scale(0.92635 1)">202</text>
+  <text class="cls-33" transform="translate(1585.15436 1068.08545)">鉄道研究部</text>
+  <text class="cls-35" transform="translate(1588.69538 1128.99756)">3-4</text>
+  <use transform="translate(1492.15011 1016.43279) scale(1.12845)" xlink:href="#image-2"/>
+  <text class="cls-33" transform="translate(126.35211 1585.97998)">写真部</text>
+  <text class="cls-35" transform="translate(129.89313 1646.89209)">203</text>
+  <use transform="translate(33.34703 1534.32744) scale(1.12845)" xlink:href="#image-2"/>
+  <text class="cls-33" transform="translate(126.35211 1329.72021)"><tspan class="cls-32">中3</tspan><tspan x="123.05957" y="0">学年展示</tspan></text>
+  <text class="cls-35" transform="translate(127.89704 1391.07178)">主管室前廊下</text>
+  <use transform="translate(33.34703 1278.06852) scale(1.12845)" xlink:href="#image-2"/>
+  <text class="cls-33" transform="translate(858.15485 1068.0835)">航空同好会</text>
+  <text class="cls-35" transform="translate(861.69391 1128.99561)">3-1</text>
+  <use transform="translate(765.14914 1016.43112) scale(1.12845)" xlink:href="#image-2"/>
+  <text class="cls-33" transform="translate(854.95368 1329.71826)">歴史研究部</text>
+  <text class="cls-35" transform="translate(858.49469 1390.63037)">3-2</text>
+  <use transform="translate(761.94838 1278.06661) scale(1.12845)" xlink:href="#image-2"/>
+  <text class="cls-33" transform="translate(854.95368 1585.97803)">囲碁将棋部</text>
+  <text class="cls-35" transform="translate(857.81501 1649.60107)">3-3</text>
+  <use transform="translate(761.94838 1534.32641) scale(1.12845)" xlink:href="#image-2"/>
+  <text class="cls-36" transform="translate(287.18929 292.91882) rotate(5.00027)">3-4</text>
+  <text class="cls-37" transform="translate(535.39009 314.91266) rotate(4.99908)">3-3</text>
+  <text class="cls-37" transform="translate(725.02731 330.76938) rotate(4.99908)">3-2</text>
+  <text class="cls-38" transform="translate(1033.31696 314.63281)">3-1</text>
+  <text class="cls-39" transform="translate(1110.59235 165.39063)">中3<tspan class="cls-40" x="74.03955" y="0">主管室</tspan></text>
+  <text class="cls-38" transform="translate(1415.64508 315.18359)">202</text>
+  <text class="cls-38" transform="translate(1665.18366 315.18359)">3-A</text>
+  <text class="cls-36" transform="translate(1933.4848 351.24677) rotate(-5.00027)">3-B</text>
+  <text class="cls-36" transform="translate(2124.17735 336.44459) rotate(-5.00027)">3-C</text>
+  <text class="cls-36" transform="translate(2427.07769 307.63719) rotate(-5.00027)">3-D</text>
+  <text class="cls-34" transform="translate(2147.44342 819.30273)">化学講義室</text>
+  <text class="cls-34" transform="translate(545.0318 571.97266)">203</text>
+</svg>
