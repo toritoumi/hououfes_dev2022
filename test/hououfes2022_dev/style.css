@@ -1,0 +1,199 @@
+@font-face {
+    font-family: "kaisoutai";
+    src: url("./fonts/Kaisotai-Next-UP-B.otf");
+  }
+body {
+  margin: 0;
+  background-color: black;
+}
+@media screen and (max-width:960px){
+  header{
+    height: 58px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    font-family: kaisoutai;
+    border-bottom: 1px solid black;
+  }
+  .header_ul{
+    margin: 0;
+    height: 30px;
+    text-decoration: none;
+    padding: 0;
+    display: inline-flex;
+  }
+  .header_a{
+    height: 30px;
+    text-decoration: none;
+  }
+  .header_li{
+    list-style-type: none;
+  }
+  .header{
+    font-size: 25px;
+    padding: 10px 3vw;
+  }
+  div.container{
+    text-align: center;
+  }
+}
+
+@media screen and (min-width:960px){
+  header{
+    height: 66px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    font-family: kaisoutai;
+    border-bottom: 1px solid black;
+  }
+  .header_ul{
+    margin: 0;
+    height: 30px;
+    text-decoration: none;
+    padding: 0;
+    display: inline-flex;
+  }
+  .header_a{
+    height: 30px;
+    text-decoration: none;
+  }
+  .header_li{
+    list-style-type: none;
+  }
+  .header{
+    font-size: 30px;
+    padding: 10px 8vw;
+  }
+  div.container{
+    text-align: center;
+  }
+}
+  div.poster {
+    background-image: url("./images/poster_background.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    height: 70%;
+  }
+  div.houousai {
+    margin-top: 0;
+    padding: 20px 0 0 20px;
+    font-family: kaisoutai;
+    font-size: 4vw;
+  }
+  div.reimei {
+    font-size: 15vw;
+    font-family: kaisoutai;
+    padding: 0 40px;
+    padding-right: 40px;
+  }
+  div.date {
+    padding-top: 35px;
+    
+    font-family: kaisoutai;
+    font-size: 5vw;
+  }
+  div.time{
+    padding-top: 45px;
+    padding-left: 3vw;  
+    font-size: 2vw;
+    font-family: kaisoutai;
+  }
+  @media screen and (max-width:960px){
+    div.time{
+      padding-top: 35px;
+    }
+  }
+  div.concept {
+    transition: all 0.5s ease;
+  }
+  
+  section.concept:hover div.concept {
+    color: #772e7f;
+  }
+  
+  div.concept-contents {
+    font-family: kaisoutai;
+    padding: 0 15%;
+    font-size: 4vw;
+    margin-top: 10px;
+  }
+  div.insta_link {
+    position: fixed;
+    bottom: 60px;
+    right: 15px;
+  }
+  img.insta_logo {
+    height: auto;
+    width: 60px;
+    transition: 0.3s;
+  }
+  
+  img.insta_logo:hover {
+    transform: scale(1.2);
+  }
+  
+  footer {
+    color: white;
+    text-align: center;
+  }
+  img.access_map_img {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+  }
+  
+  div.access_map {
+    text-align: center;
+  }
+  div.access {
+    transition: all 0.5s ease;
+  }
+  
+  div.floor_map {
+    transition: all 0.5s ease;
+  }
+  section.access:hover div.access {
+    color: #e22c65;
+  }
+  
+  section.floor_map:hover div.floor_map {
+    color: #fee980;
+  }
+  
+  .headline {
+    font-family: kaisoutai;
+    font-size: 8vw;
+    padding-left: 10%;
+    padding-top: 50px;
+  }
+  
+  @media screen and (min-width:960px){
+    div.floormaps{
+      padding: 0 3%;
+    }
+  
+    img.floormapfull{
+      padding-top: 20px;
+      width: 100%;
+      height: auto;
+    }
+    img.floormap-phone{
+      display: none;
+    }
+  }
+  
+  @media screen and (max-width:960px){
+    div.floormaps{
+      padding: 0 5%;
+    }
+  
+    img.floormapfull{
+      display: none;
+    }
+    img.floormap-phone{
+      padding-top: 20px;
+      width: 100%;
+      height: auto;
+    }
+  }

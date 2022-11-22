@@ -1,0 +1,371 @@
+<svg id="レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="198.40398mm" height="107.89608mm" viewBox="0 0 562.40499 305.84717">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-2 {
+        fill: none;
+      }
+
+      .cls-10, .cls-12, .cls-2, .cls-7, .cls-9 {
+        stroke: #231815;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-dasharray: 0.1 3 0.1 3 0.1 6;
+      }
+
+      .cls-10, .cls-12, .cls-14, .cls-16, .cls-18, .cls-2, .cls-3, .cls-7, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-14, .cls-22, .cls-3, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #601986;
+        stroke-dasharray: 3;
+      }
+
+      .cls-10, .cls-12, .cls-14, .cls-16, .cls-3 {
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        font-size: 33px;
+        font-family: HPSimplified-Regular, HPSimplified Regular;
+      }
+
+      .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-29, .cls-31, .cls-32, .cls-33, .cls-4 {
+        fill: #6b6b6b;
+      }
+
+      .cls-5 {
+        fill: #9fa0a0;
+      }
+
+      .cls-6 {
+        fill: #3e3a39;
+      }
+
+      .cls-7 {
+        fill: #261c19;
+      }
+
+      .cls-7, .cls-9 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-20, .cls-9 {
+        fill: #231815;
+      }
+
+      .cls-11 {
+        opacity: 0.15;
+      }
+
+      .cls-12 {
+        fill: url(#円の線);
+      }
+
+      .cls-13 {
+        fill: #601986;
+      }
+
+      .cls-14 {
+        stroke: #ea5514;
+      }
+
+      .cls-15 {
+        fill: #c30d23;
+      }
+
+      .cls-16, .cls-18 {
+        fill: #727171;
+        stroke: #595757;
+      }
+
+      .cls-17 {
+        fill: url(#ブルーストーン);
+      }
+
+      .cls-18 {
+        stroke-width: 2px;
+      }
+
+      .cls-19 {
+        fill: #595757;
+      }
+
+      .cls-21 {
+        fill: #140107;
+      }
+
+      .cls-22 {
+        stroke: #fff;
+        stroke-linejoin: bevel;
+        stroke-width: 1.00518px;
+      }
+
+      .cls-23 {
+        font-size: 13.60575px;
+      }
+
+      .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-29, .cls-31, .cls-32, .cls-33 {
+        font-family: HPSimplifiedJpan-Regular, HPSimplifiedJpan Regular;
+      }
+
+      .cls-24 {
+        font-size: 6.26971px;
+      }
+
+      .cls-25, .cls-32 {
+        font-size: 7px;
+      }
+
+      .cls-26 {
+        font-size: 6.27px;
+      }
+
+      .cls-27, .cls-29 {
+        font-size: 8px;
+      }
+
+      .cls-28, .cls-29 {
+        letter-spacing: 0.24997em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0.00007em;
+      }
+
+      .cls-31 {
+        font-size: 9.49276px;
+      }
+
+      .cls-32 {
+        writing-mode: tb;
+        text-orientation: upright;
+        glyph-orientation-vertical: 0deg;
+      }
+
+      .cls-33 {
+        font-size: 12px;
+      }
+
+      .cls-34 {
+        letter-spacing: 0.25em;
+      }
+
+      .cls-35 {
+        letter-spacing: -0.5em;
+      }
+    </style>
+    <pattern id="円の線" data-name="円の線" width="85.499" height="93" patternTransform="translate(-659.8156 -769.07666)" patternUnits="userSpaceOnUse" viewBox="0 0 85.499 93">
+      <rect class="cls-1" width="85.499" height="93"/>
+      <g>
+        <path class="cls-2" d="M85.499,3.71c19.2871-.7256,40.5-.71,68.999.29,4.33689.1533,11.30959-.3047,16.5-.29"/>
+        <path class="cls-2" d="M85.499,10.5645C109.999,8,131.23239,11.7891,148.498,10c3.666-.3789,12.75.4629,22.5.5645"/>
+        <path class="cls-2" d="M85.499,17.4873c21.5-1.4873,27.29689,1.4043,58.999-1.2373,9-.75,23.49119,1.4219,26.49509,1.2373"/>
+        <path class="cls-2" d="M85.496,22.8984c14.4141.7188,30.65629,2.3477,49.627.4024,9.75779-1,22.62109-.1397,35.875-.4024"/>
+        <path class="cls-2" d="M85.499,36.7148c18.0654-.2714,22.2851-1.9287,55.999-.2148,14.75.75,22.5,1,29.5.2148"/>
+        <path class="cls-2" d="M85.5019,42.9404c12.8477.5049,24.4971-1.4404,45.6221.1104,16.54389,1.2148,29.92379-1.4219,39.875-.1104"/>
+        <path class="cls-2" d="M85.5,56.375c20.499-.375,17.5117-.7471,44.999.125,31.499,1,40.00679-.1348,40.49609-.125"/>
+        <path class="cls-2" d="M85.499,63.6602c20.9404-.3155,17.6064,1.0332,50.249-.9102,2.05959-.1221,26.25,2.25,35.25389.9102"/>
+        <path class="cls-2" d="M85.5,68.9004a431.06651,431.06651,0,0,0,50.623.6504c9.51269-.4834,20.375.4492,34.876-.6504"/>
+        <path class="cls-2" d="M85.5009,75.9014c20.9405.5283,52.4971-.4014,73.4971.3486,1.40819.0508,10.49119-.2773,11.99709-.3486"/>
+        <path class="cls-2" d="M85.499,83.40527C115.499,81.5,150.498,84.5,164.998,83.5c1.76269-.12109,4.10059-.043,5.999-.09473"/>
+        <path class="cls-2" d="M85.5,89.5332c10.6835.15528,21.4638-1.09765,38.499-.0332,23.999,1.5,41.77929.12207,46.999.0332"/>
+        <path class="cls-2" d="M85.499,50.2891c22.1455-.6289,46.499-1.7891,57.749-.7891a254.16962,254.16962,0,0,0,27.75389.7891"/>
+        <path class="cls-2" d="M85.499,29.7148c18.0654-.2714,22-1.2148,46-.2148,21.48139.8945,30.499,1,39.499.2148"/>
+      </g>
+      <g>
+        <path class="cls-2" d="M0,3.71C19.2871,2.9844,40.5,3,68.999,4c4.3369.1533,11.3095-.3047,16.5-.29"/>
+        <path class="cls-2" d="M0,10.5645C24.5,8,45.7334,11.7891,62.999,10c3.666-.3789,12.75.4629,22.5.5645"/>
+        <path class="cls-2" d="M0,17.4873C21.5,16,27.2968,18.8916,58.999,16.25c9-.75,23.4912,1.4219,26.4951,1.2373"/>
+        <path class="cls-2" d="M-.003,22.8984c14.4141.7188,30.6563,2.3477,49.627.4024,9.7578-1,22.6211-.1397,35.875-.4024"/>
+        <path class="cls-2" d="M0,36.7148c18.0654-.2714,22.2851-1.9287,55.999-.2148,14.75.75,22.5,1,29.5.2148"/>
+        <path class="cls-2" d="M.0029,42.9404C12.8505,43.4453,24.5,41.5,45.625,43.0508c16.5439,1.2148,29.9238-1.4219,39.875-.1104"/>
+        <path class="cls-2" d="M.0009,56.375C20.5,56,17.5126,55.6279,45,56.5c31.499,1,40.0068-.1348,40.496-.125"/>
+        <path class="cls-2" d="M0,63.6602c20.9404-.3155,17.6064,1.0332,50.249-.9102,2.0595-.1221,26.25,2.25,35.2539.9102"/>
+        <path class="cls-2" d="M.0009,68.9004a431.0686,431.0686,0,0,0,50.6231.6504c9.5127-.4834,20.375.4492,34.876-.6504"/>
+        <path class="cls-2" d="M.0019,75.9014c20.9404.5283,52.4971-.4014,73.4971.3486,1.4082.0508,10.4912-.2773,11.997-.3486"/>
+        <path class="cls-2" d="M0,83.40527C30,81.5,64.999,84.5,79.499,83.5c1.7627-.12109,4.1006-.043,5.999-.09473"/>
+        <path class="cls-2" d="M.0009,89.5332C10.6845,89.68848,21.4648,88.43555,38.5,89.5c23.999,1.5,41.7793.12207,46.999.0332"/>
+        <path class="cls-2" d="M0,50.2891C22.1455,49.6602,46.499,48.5,57.749,49.5a254.16982,254.16982,0,0,0,27.7539.7891"/>
+        <path class="cls-2" d="M0,29.7148C18.0654,29.4434,22,28.5,46,29.5c21.4814.8945,30.499,1,39.499.2148"/>
+      </g>
+      <g>
+        <path class="cls-2" d="M-85.49907,3.71C-66.212,2.9844-44.9991,3-16.5,4c4.3369.1533,11.3095-.3047,16.5-.29"/>
+        <path class="cls-2" d="M-85.49907,10.5645C-60.9991,8-39.7657,11.7891-22.5,10c3.666-.3789,12.75.4629,22.5.5645"/>
+        <path class="cls-2" d="M-85.49907,17.4873C-63.9991,16-58.2022,18.8916-26.5,16.25c9-.75,23.4912,1.4219,26.4951,1.2373"/>
+        <path class="cls-2" d="M-85.502,22.8984c14.4141.7188,30.6563,2.3477,49.627.4024,9.7578-1,22.621-.1397,35.875-.4024"/>
+        <path class="cls-2" d="M-85.49907,36.7148C-67.4336,36.4434-63.2139,34.7861-29.5,36.5c14.75.75,22.5,1,29.5.2148"/>
+        <path class="cls-2" d="M-85.49614,42.9404c12.84764.5049,24.497-1.4404,45.622.1104,16.544,1.2148,29.9239-1.4219,39.875-.1104"/>
+        <path class="cls-2" d="M-85.49809,56.375c20.499-.375,17.51169-.7471,44.999.125C-9,57.5-.4922,56.3652-.003,56.375"/>
+        <path class="cls-2" d="M-85.49907,63.6602C-64.5586,63.3447-67.8926,64.6934-35.25,62.75-33.1905,62.6279-9,65,.0039,63.6602"/>
+        <path class="cls-2" d="M-85.49809,68.9004a431.068,431.068,0,0,0,50.62309.6504C-25.3624,69.0674-14.5,70,.0009,68.9004"/>
+        <path class="cls-2" d="M-85.49712,75.9014C-64.5567,76.4297-33,75.5-12,76.25c1.4082.0508,10.4912-.2773,11.997-.3486"/>
+        <path class="cls-2" d="M-85.49907,83.40527C-55.4991,81.5-20.5,84.5-6,83.5c1.7626-.12109,4.1005-.043,5.999-.09473"/>
+        <path class="cls-2" d="M-85.49809,89.5332c10.68359.15528,21.46389-1.09765,38.499-.0332C-23,91-5.2198,89.62207,0,89.5332"/>
+        <path class="cls-2" d="M-85.49907,50.2891C-63.3536,49.6602-39,48.5-27.75,49.5a254.16982,254.16982,0,0,0,27.7539.7891"/>
+        <path class="cls-2" d="M-85.49907,29.7148c18.06547-.2714,22-1.2148,46-.2148C-18.0176,30.3945-9,30.5,0,29.7148"/>
+      </g>
+    </pattern>
+    <linearGradient id="ブルーストーン" x1="925.91222" y1="1090.57753" x2="931.99401" y2="1090.57753" gradientTransform="translate(-161.62442 2019.53065) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.00562" stop-color="#3e5674"/>
+      <stop offset="0.12882" stop-color="#536985"/>
+      <stop offset="0.26937" stop-color="#647793"/>
+      <stop offset="0.42499" stop-color="#6e7f9a"/>
+      <stop offset="0.6236" stop-color="#71829d"/>
+      <stop offset="0.73422" stop-color="#7284a0"/>
+      <stop offset="0.82307" stop-color="#768baa"/>
+      <stop offset="0.90433" stop-color="#7c96bb"/>
+      <stop offset="0.98066" stop-color="#85a6d3"/>
+      <stop offset="1" stop-color="#88abda"/>
+    </linearGradient>
+    <image id="image" width="50" height="50" xlink:href="data:image/png;base64,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"/>
+    <image id="image-2" width="50" height="50" xlink:href="data:image/png;base64,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"/>
+  </defs>
+  <path class="cls-3" d="M781.86741,1054.00189" transform="translate(-708.3206 -839.07666)"/>
+  <text class="cls-4" transform="translate(28.88082 27.62096)">Campus Map</text>
+  <g>
+    <rect class="cls-5" x="10.58676" y="3.55476" width="9.53115" height="25.33532"/>
+    <rect class="cls-6" x="10.58676" y="3.55476" width="6.8017" height="25.33532"/>
+  </g>
+  <g>
+    <line class="cls-7" x1="395.1829" y1="32.85096" x2="551.48975" y2="32.85081"/>
+    <g>
+      <rect class="cls-6" x="286.98935" y="22.49739" width="90.93397" height="21.21393" rx="7.42114"/>
+      <g>
+        <path class="cls-8" d="M1010.37151,878.94909v.65625h-1.67968c.0166-.76856.0166-.76856.05029-3.77637v-6.84765c-.0166-3.05567-.0166-3.05567-.05029-3.60059.89013.03223,2.20068.06445,3.34326.06445h7.74463c1.14257,0,2.45263-.03222,3.34326-.06445-.03369.56055-.03369.56055-.0503,3.60059V875.829c.01661,2.96.01661,2.96.0503,3.77637h-1.68018v-.65625Zm11.07129-12.03223h-11.07129V877.493h11.07129Zm-3.07422,6.27246c0,.32032.0166,1.28028.0503,1.87207v.24024c0,.7998-.15088,1.19922-.57129,1.47168-.45362.32031-1.00782.40039-2.52.40039h-.15088a5.24245,5.24245,0,0,0-.31934-1.68067,10.18108,10.18108,0,0,0,1.0918.04786c.73926,0,.80664-.04786.80664-.65528v-4.06445h-3.86426c-.5542,0-1.49511.01562-2.01562.03223v-1.53614c.48681.01563,1.394.03223,2.01562.03223h3.86426a15.00833,15.00833,0,0,0-.11768-2.11231l1.83106.11231c.15137.01562.252.08008.252.17578s-.10058.17578-.30224.28809a13.47194,13.47194,0,0,0-.0503,1.53613h.62159c.62158,0,1.54541-.0166,2.01611-.03223v1.53614c-.50391-.01661-1.46192-.03223-2.01611-.03223h-.62159Zm-4.90576-1.80859a10.38224,10.38224,0,0,1,2.20117,2.36816l-1.41162,1.02442a13.22883,13.22883,0,0,0-1.96533-2.4961Z" transform="translate(-708.3206 -839.07666)"/>
+        <path class="cls-8" d="M1026.16351,872.19714a13.59358,13.59358,0,0,1-1.02491,1.64843,5.04785,5.04785,0,0,0-.97412-1.584,21.96368,21.96368,0,0,0,3.27588-7.55274l1.61279.59278c.15137.06347.23536.14355.23536.23926,0,.1123-.05079.16015-.40333.25585a25.83549,25.83549,0,0,1-1.27685,3.53614l.252.0166c.168.01562.269.08008.269.16016,0,.11132-.10108.1914-.33643.31933v6.54395c0,1.44043.01709,2.57617.05078,3.28027h-1.73047c.03369-.71973.0503-1.80762.0503-3.28027Zm11.08789,4.7998c-.252-.01562-.68848-.01562-1.00782-.01562h-1.54541c.0166,1.12011.03321,2,.0669,2.67187h-1.76416c.03369-.67187.05078-1.56836.06738-2.67187h-1.5791c-.33594,0-.75586,0-1.0083.01562v-1.23145a17.18893,17.18893,0,0,1-1.78076,1.66407,4.7815,4.7815,0,0,0-.80616-1.47266,14.46665,14.46665,0,0,0,2.80567-2.94336,16.2414,16.2414,0,0,0,1.78076-3.10449h-1.49512c-.85693,0-1.96582.03223-2.67138.04785v-1.56738c.70556.03125,1.81445.04785,2.67138.04785h2.083c-.0166-1.91992-.05029-3.10449-.10059-3.52051l1.79737.11231c.15136,0,.252.08007.252.16015,0,.09571-.084.17578-.30225.30371-.0166.52832-.0166.5918-.03369,2.94434h2.53662c.773,0,1.96582-.0166,2.688-.04785v1.56738c-.72217-.01562-1.915-.04785-2.688-.04785h-2.01562a12.55005,12.55005,0,0,0,1.94873,3.18457,14.1448,14.1448,0,0,0,3.19189,2.94336,5.48216,5.48216,0,0,0-1.05859,1.34375,20.97877,20.97877,0,0,1-2.03271-1.82324Zm-5.76221-1.4873h1.5791V871.9569a16.05774,16.05774,0,0,1-1.71338,2.78418c-.20166.25586-.42041.49609-.63867.75195Zm3.19189,0h1.5625l.95752-.01661a14.56179,14.56179,0,0,1-1.32715-1.61621,13.85578,13.85578,0,0,1-1.19287-1.96777Z" transform="translate(-708.3206 -839.07666)"/>
+        <path class="cls-8" d="M1056.30267,872.661c-.89063-.04785-2.33545-.06347-3.36036-.06347h-8.3999c-.92383,0-2.436.03125-3.34326.06347v-1.72754c.87353.03223,2.38574.06348,3.34326.06348h8.3999c1.0586,0,2.50342-.03125,3.36036-.06348Z" transform="translate(-708.3206 -839.07666)"/>
+        <path class="cls-8" d="M1067.33977,877.50964c0,.43164.0503.52734.269.59179a8.97162,8.97162,0,0,0,1.52881.09571c.30224,0,1.20947-.04786,1.478-.06348a.754.754,0,0,0,.80664-.78418c.01661-.38379.0337-.64063.0337-.97656a5.88564,5.88564,0,0,0,1.51171.46386c-.20166,1.64844-.23486,1.8086-.58789,2.12891-.41992.38379-1.36084.54395-3.25927.54395a16.96576,16.96576,0,0,1-2.18409-.08008c-.82275-.16016-1.10839-.56055-1.10839-1.56836v-.79981h-1.15918a4.49916,4.49916,0,0,1-2.856,2.12793,14.89846,14.89846,0,0,1-3.84766.60742,5.883,5.883,0,0,0-.48681-1.376,18.06556,18.06556,0,0,0,3.51123-.39942,3.23924,3.23924,0,0,0,1.86474-.96h-1.0415v.35157h-1.61328c.03369-.36817.05078-.91211.05078-1.69532v-2.7207c0-.49609-.01709-1.12012-.05078-1.4082.58838.0166,1.10888.03222,1.86523.03222h6.19922c.75586,0,1.27637-.01562,1.86475-.03222-.03369.28808-.05078.91211-.05078,1.4082v2.65625c0,.75195.01709,1.2959.05078,1.66406h-1.6128v-.25586h-1.17627Zm-3.88085-7.39258c.63867,0,1.4956-.01563,1.99951-.03223v1.168c-.50391-.01563-1.44483-.04785-1.99951-.04785h-4.03174v.52832h-1.52881c.0166-.57617.03369-1.36035.03369-2.33594v-2.67187c0-.48047-.01709-1.12012-.03369-1.42383.47021.03125.47021.03125,1.96533.03125h3.32666c.63818,0,1.49512-.01563,1.999-.03125v1.168c-.5039-.01661-1.44482-.04883-1.999-.04883h-1.10889v.65625h.92383c.80664,0,1.15918-.01563,1.57959-.03223-.01709.22461-.03369.75195-.03369,1.13672v.28809c0,.44726.0166.76757.03369,1.26367h-1.42822v-.22363h-1.0752v.60742Zm-2.78858-3.69629h-1.24316v.65625h1.24316Zm2.48633,1.60058h-3.72949v.52832h3.72949Zm-2.48633,1.48829h-1.24316v.60742h1.24316Zm7.8457,3.19921h-6.70312v.40039h6.70312Zm0,1.40821h-6.70312v.416h6.70312Zm0,1.42383h-6.70312v.43261h6.70312Zm-1.19287-7.91993a13.51649,13.51649,0,0,1-1.49511,2,4.683,4.683,0,0,0-1.0586-.99218,10.46925,10.46925,0,0,0,2.36865-3.80762l1.34424.32031c.23535.04785.33594.12793.33594.23926,0,.12891-.06738.17676-.437.24023-.11719.24024-.21826.44825-.31885.65625h3.91406l1.0083-.01562v1.376l-1.0083-.01661Zm4.97266,2.72071c-.252-.0166-.67188-.0166-1.00781-.0166h-3.71289c-.31934,0-.75586,0-1.00782.0166v-1.42481c.252.0166.68848.0166,1.00782.0166h3.71289c.33593,0,.75586,0,1.00781-.0166Z" transform="translate(-708.3206 -839.07666)"/>
+      </g>
+    </g>
+    <line class="cls-9" x1="394.658" y1="25.40257" x2="394.658" y2="40.29905"/>
+  </g>
+  <line class="cls-10" x1="216.2825" y1="290.90535" x2="223.44654" y2="291.70662"/>
+  <g class="cls-11">
+    <polyline class="cls-12" points="237.649 293.66 259.088 296.058 248.622 37.033 228.626 40.62 64.726 69.322 59.478 114.441 59.478 114.441 39.76 128.533 18.456 127.764 1.67 267.267 216.038 291.243"/>
+    <line class="cls-12" x1="222.18427" y1="292.21662" x2="226.66115" y2="289.35003"/>
+    <line class="cls-12" x1="238.70003" y1="294.11827" x2="235.58353" y2="290.48979"/>
+  </g>
+  <g>
+    <polygon class="cls-8" points="153.932 166.948 153.932 115.565 181.593 87.905 232.975 87.905 232.975 159.289 225.316 166.948 153.932 166.948"/>
+    <path class="cls-13" d="M939.82275,928.455v69.2998l-6.79644,6.79645H863.7265V955.2525L890.524,928.455h49.29876m2.947-2.947h-53.4665l-28.5238,28.5238v53.46649H934.247l8.52277-8.52277V925.508Z" transform="translate(-708.3206 -839.07666)"/>
+  </g>
+  <g>
+    <rect class="cls-8" x="209.87569" y="184.47998" width="28.71826" height="39.64941"/>
+    <path class="cls-13" d="M945.441,1025.03027v36.70264H919.66986v-36.70264H945.441m2.947-2.947H916.72284v42.59668H948.388v-42.59668Z" transform="translate(-708.3206 -839.07666)"/>
+  </g>
+  <rect class="cls-14" x="21.0319" y="144.86367" width="49.05508" height="19.61241"/>
+  <rect class="cls-14" x="66.33421" y="219.9614" width="29.85779" height="40.16544"/>
+  <g>
+    <rect class="cls-8" x="88.17452" y="177.2124" width="109.96533" height="32.34961"/>
+    <path class="cls-15" d="M904.99091,1017.7597v29.40863H797.96466V1017.7597H904.99091m2.94-2.94H795.02466v35.28858H907.93091V1014.8197Z" transform="translate(-708.3206 -839.07666)"/>
+  </g>
+  <g>
+    <polygon class="cls-8" points="113.801 272.412 113.801 224.27 181.94 224.27 211.705 251.737 211.705 272.412 113.801 272.412"/>
+    <path class="cls-15" d="M889.68445,1064.8197l28.86761,26.63831v18.55652H823.59552V1064.8197h66.08893m1.152-2.947H820.6485v51.08887H921.49908v-22.79407l-30.66265-28.2948Z" transform="translate(-708.3206 -839.07666)"/>
+  </g>
+  <g>
+    <polygon class="cls-8" points="33.425 202.862 33.425 172.22 70.004 172.22 70.004 183.305 73.843 183.305 73.843 202.862 33.425 202.862"/>
+    <path class="cls-13" d="M776.8515,1012.76984v11.08538h3.83936v16.61036H743.21967v-27.69574H776.8515m2.947-2.947H740.27264v33.58979h43.36524v-22.5044h-3.83936v-11.08539Z" transform="translate(-708.3206 -839.07666)"/>
+  </g>
+  <polygon class="cls-14" points="86.704 103.598 86.704 148.928 76.672 148.928 76.672 168.422 86.704 168.422 92.208 168.422 140.642 168.422 140.642 103.598 86.704 103.598"/>
+  <polygon class="cls-16" points="86.704 99.597 156.263 99.597 156.263 62.04 131.124 62.04 131.124 76.301 86.704 76.301 86.704 99.597"/>
+  <rect class="cls-17" x="923.86704" y="1087.53663" width="10.17215" height="6.0818" transform="translate(1311.21005 -677.45224) rotate(90)"/>
+  <polygon class="cls-18" points="257.381 285.871 243.891 285.871 243.891 234.641 255.595 234.641 257.381 285.871"/>
+  <rect class="cls-19" x="222.31466" y="233.1195" width="4.86341" height="4.86341"/>
+  <rect class="cls-19" x="215.49982" y="279.11658" width="4.86341" height="8.56153"/>
+  <g>
+    <polygon class="cls-20" points="129.367 214.925 127.517 218.129 131.217 218.129 129.367 214.925"/>
+    <polygon class="cls-20" points="162.584 214.925 160.734 218.129 164.433 218.129 162.584 214.925"/>
+  </g>
+  <g>
+    <path class="cls-21" d="M924.70122,1069.29765H913.77071l-1.62136-1.62136v-10.93051l1.62136-1.62136h10.93051l1.62136,1.62136v10.93051Z" transform="translate(-708.3206 -839.07666)"/>
+    <g>
+      <path class="cls-22" d="M919.23469,1066.02472s3.37283-2.53287,3.93187-4.5454-1.41039-4.549-3.93187-2.02754c-2.44822-2.44823-4.4909.015-3.93186,2.02754S919.23469,1066.02472,919.23469,1066.02472Z" transform="translate(-708.3206 -839.07666)"/>
+      <g>
+        <path class="cls-20" d="M919.968,1059.14457l-2.58028,3.16919.05827.105h1.609l1.03931-3.22868Z" transform="translate(-708.3206 -839.07666)"/>
+        <path class="cls-20" d="M918.22968,1065.043l2.58028-3.16919-.05827-.105h-1.609l-1.03931,3.22868Z" transform="translate(-708.3206 -839.07666)"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="cls-21" d="M787.82757,1050.65437H776.89706l-1.62136-1.62136v-10.9305l1.62136-1.62137h10.93051l1.62136,1.62137v10.9305Z" transform="translate(-708.3206 -839.07666)"/>
+    <g>
+      <path class="cls-22" d="M782.361,1047.38144s3.37283-2.53287,3.93186-4.5454-1.41038-4.549-3.93186-2.02754c-2.44823-2.44823-4.4909.015-3.93186,2.02754S782.361,1047.38144,782.361,1047.38144Z" transform="translate(-708.3206 -839.07666)"/>
+      <g>
+        <path class="cls-20" d="M783.09439,1040.50129l-2.58028,3.16919.05827.105h1.609l1.03932-3.22869Z" transform="translate(-708.3206 -839.07666)"/>
+        <path class="cls-20" d="M781.356,1046.39976l2.58028-3.16919-.05827-.105h-1.609l-1.03932,3.22868Z" transform="translate(-708.3206 -839.07666)"/>
+      </g>
+    </g>
+  </g>
+  <text class="cls-23" transform="translate(130.04634 198.9113) scale(0.96362 1)">校舎</text>
+  <text class="cls-24" transform="translate(46.98885 181.83025)">中等科<tspan x="0" y="7.16504">体育館</tspan></text>
+  <text class="cls-25" transform="translate(37.31722 185.62307)">2F</text>
+  <text class="cls-25" transform="translate(37.04183 197.8381)">1F</text>
+  <text class="cls-26" transform="translate(46.51717 197.4045)">プール</text>
+  <text class="cls-27" transform="translate(106.28719 134.81084) scale(0.9 1)"><tspan class="cls-28">第</tspan><tspan x="10" y="0">2</tspan><tspan x="-12.79622" y="12">グラウンド</tspan></text>
+  <text class="cls-29" transform="translate(130.01851 251.95449) scale(0.9 1)">第1<tspan class="cls-30" x="16.40788" y="0">グラウンド</tspan></text>
+  <text class="cls-26" transform="translate(215.34163 202.21398)">高等科<tspan x="0" y="9">体育館</tspan></text>
+  <text class="cls-26" transform="translate(133.2596 219.05242)">校舎入口</text>
+  <text class="cls-25" transform="translate(225.26888 249.88348)">入場<tspan x="0" y="8">受付</tspan></text>
+  <text class="cls-25" transform="translate(220.13167 303.47461)">中高門</text>
+  <text class="cls-31" transform="translate(180.07418 133.4743)">野球場</text>
+  <g>
+    <polyline class="cls-10" points="237.893 293.322 259.333 295.72 248.867 36.695 228.871 40.282 64.971 68.984 59.723 114.103 59.723 114.103 40.005 128.195 18.701 127.427 1.915 266.929 216.283 290.905"/>
+    <line class="cls-10" x1="222.42914" y1="291.87878" x2="226.90602" y2="289.01219"/>
+    <line class="cls-10" x1="238.9449" y1="293.78043" x2="235.8284" y2="290.15195"/>
+  </g>
+  <text class="cls-32" transform="translate(81.1285 229.54415)">武道場</text>
+  <g>
+    <text class="cls-33" transform="translate(459.9161 226.43658)">中夜祭</text>
+    <text class="cls-27" transform="translate(459.69368 238.88434)">高等科体育館</text>
+    <use transform="translate(441.61981 216.2807) scale(0.21552)" xlink:href="#image"/>
+  </g>
+  <g>
+    <text class="cls-33" transform="translate(312.6783 67.71624)">硬式野球部</text>
+    <text class="cls-27" transform="translate(314.51302 80.39543) scale(1.1 1)">野球場</text>
+    <use transform="translate(298.40292 57.33407) scale(0.21552)" xlink:href="#image"/>
+    <text class="cls-25" transform="translate(314.80257 91.39511)">～オレがやる～応援お願いします</text>
+  </g>
+  <text class="cls-33" transform="translate(458.02913 173.5285)">模型展示</text>
+  <text class="cls-27" transform="translate(459.81466 186.89819)">武道場前、<tspan class="cls-34" x="40" y="0">第2</tspan><tspan x="56.40771" y="0">グラウンド</tspan></text>
+  <use transform="translate(441.61981 163.44842) scale(0.22569)" xlink:href="#image-2"/>
+  <text class="cls-25" transform="translate(459.98543 198.19171)"><tspan class="cls-34">超!</tspan><tspan x="12.23584" y="0">エキサイティ</tspan><tspan class="cls-34" x="54.23584" y="0">ン</tspan><tspan x="62.98584" y="0">!!</tspan><tspan class="cls-34" x="66.45752" y="0">!</tspan><tspan x="69.94336" y="0">な展示</tspan></text>
+  <g>
+    <text class="cls-33" transform="translate(313.00716 120.69814)">マーメイドボーイズ</text>
+    <text class="cls-27" transform="translate(315.34847 132.52728)">プール</text>
+    <use transform="translate(298.40292 110.85475) scale(0.21552)" xlink:href="#image"/>
+    <text class="cls-25" transform="translate(315.50692 143.65573)">シンクロぶち、かまします<tspan class="cls-35" x="84" y="0">。</tspan></text>
+  </g>
+  <g>
+    <text class="cls-33" transform="translate(313.8785 173.68094)">めじろダービー</text>
+    <text class="cls-27" transform="translate(315.58638 186.2493)"><tspan class="cls-34">第1</tspan><tspan x="16.4082" y="0">グラウンド</tspan></text>
+    <use transform="translate(298.40292 163.52507) scale(0.21552)" xlink:href="#image"/>
+    <text class="cls-25" transform="translate(315.63021 197.5661)">馬になりきって走りましょう！</text>
+  </g>
+  <g>
+    <text class="cls-33" transform="translate(313.79049 226.66332)">ホッケー部</text>
+    <text class="cls-27" transform="translate(315.58638 239.23167)"><tspan class="cls-34">第1</tspan><tspan x="16.4082" y="0">グラウンド</tspan></text>
+    <use transform="translate(298.40292 216.50744) scale(0.21552)" xlink:href="#image"/>
+    <text class="cls-25" transform="translate(316.10701 251.1557)">試合や展示をするので来て下さい</text>
+  </g>
+  <g>
+    <text class="cls-25" transform="translate(460.90523 144.04947)">ラリー体験や的当てやってます<tspan class="cls-35" x="98" y="0">。</tspan></text>
+    <text class="cls-33" transform="translate(460.90535 121.56569)">硬式庭球部</text>
+    <text class="cls-27" transform="translate(460.03389 133.08022)">テニスコート</text>
+    <use transform="translate(441.61981 110.28094) scale(0.22569)" xlink:href="#image-2"/>
+  </g>
+  <g>
+    <text class="cls-25" transform="translate(460.34969 92.02121)">稽古の成果を演武で披露します</text>
+    <text class="cls-33" transform="translate(458.61361 67.71625)">古武道部</text>
+    <text class="cls-27" transform="translate(459.7928 80.34514)"><tspan class="cls-34">第1</tspan><tspan x="16.40771" y="0">グラウンド</tspan></text>
+    <use transform="translate(441.61981 57.33407) scale(0.22569)" xlink:href="#image-2"/>
+  </g>
+  <text class="cls-25" transform="translate(25.10433 157.5066)">テニスコート</text>
+</svg>

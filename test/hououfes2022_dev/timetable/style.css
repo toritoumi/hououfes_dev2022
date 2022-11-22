@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "kaisoutai";
+    src: url("../fonts/Kaisotai-Next-UP-B.otf");
+}
+body {
+    background-color: black;
+    margin: 0;
+}
+@media screen and (max-width:960px){
+    header{
+        height: 58px;
+        width: 100%;
+        background-color: black;
+        text-align: center;
+        font-family: kaisoutai;
+        border-bottom: 1px solid white;
+    }
+    .header_ul{
+        margin: 0;
+        height: 30px;
+        text-decoration: none;
+        padding: 0;
+        display: inline-flex;
+    }
+    .header_a{
+        height: 30px;
+        text-decoration: none;
+    }
+    .header_li{
+        list-style-type: none;
+    }
+    .header{
+        font-size: 25px;
+        padding: 10px 3vw;
+    }
+    div.container{
+        text-align: center;
+    }
+}
+
+@media screen and (min-width:960px){
+    header{
+        height: 66px;
+        width: 100%;
+        background-color: black;
+        text-align: center;
+        font-family: kaisoutai;
+        border-bottom: 1px solid white;
+    }
+    .header_ul{
+        margin: 0;
+        height: 30px;
+        text-decoration: none;
+        padding: 0;
+        display: inline-flex;
+    }
+    .header_a{
+        height: 30px;
+        text-decoration: none;
+    }
+    .header_li{
+        list-style-type: none;
+    }
+    .header{
+        font-size: 30px;
+        padding: 10px 8vw;
+    }
+    div.container{
+        text-align: center;
+    }
+}
+
+div.tyuuyasai{
+    font-size: 8vw;
+    font-family: kaisoutai;
+    color: white;
+    
+}
